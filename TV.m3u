@@ -1,149 +1,128 @@
 #EXTM3U 
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",beIN_SPORTS_1_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport1-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173627105.png",beIN_SPORTS_2_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport2-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173644438.png",beIN_SPORTS_3_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport3-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport3-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173659192.png",beIN_SPORTS_4_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport4-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport4-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173711134.png",beIN_SPORTS_5_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport5-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport5-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173724590.png",beIN_SPORTS_6_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport6-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport6-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317375196.png",beIN_SPORTS_7_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport7-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport7-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317383255.png",beIN_SPORTS_8_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport8-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport8-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173817430.png",beIN_SPORTS_9_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport9-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173832748.png",beIN_SPORTS_10_WE
-#EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10-4
+#EXTVLCOPT:http-user-agent=WSS_User_Agent
+https://grgs2020.000webhostapp.com/beinsport10-4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",beIN_SPORTS_1_Low
 https://grgs2020.000webhostapp.com/beinsport1/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173627105.png",beIN_SPORTS_2_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2
+https://grgs2020.000webhostapp.com/beinsport2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173644438.png",beIN_SPORTS_3_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport3
+https://grgs2020.000webhostapp.com/beinsport3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173659192.png",beIN_SPORTS_4_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport4
+https://grgs2020.000webhostapp.com/beinsport4/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173711134.png",beIN_SPORTS_5_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport5
+https://grgs2020.000webhostapp.com/beinsport5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173724590.png",beIN_SPORTS_6_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport6
+https://grgs2020.000webhostapp.com/beinsport6/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317375196.png",beIN_SPORTS_7_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport7
+https://grgs2020.000webhostapp.com/beinsport7/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317383255.png",beIN_SPORTS_8_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport8
+https://grgs2020.000webhostapp.com/beinsport8/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173817430.png",beIN_SPORTS_9_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9
+https://grgs2020.000webhostapp.com/beinsport9/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173832748.png",beIN_SPORTS_10_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10
+https://grgs2020.000webhostapp.com/beinsport10/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",beIN_SPORTS_1SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1-2
+https://grgs2020.000webhostapp.com/beinsport1-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173627105.png",beIN_SPORTS_2SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2-2
+https://grgs2020.000webhostapp.com/beinsport2-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173644438.png",beIN_SPORTS_3SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport3-2
+https://grgs2020.000webhostapp.com/beinsport3-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173659192.png",beIN_SPORTS_4SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport4-2
+https://grgs2020.000webhostapp.com/beinsport4-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173711134.png",beIN_SPORTS_5SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport5-2
+https://grgs2020.000webhostapp.com/beinsport5-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173724590.png",beIN_SPORTS_6SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport6-2
+https://grgs2020.000webhostapp.com/beinsport6-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317375196.png",beIN_SPORTS_7SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport7-2
+https://grgs2020.000webhostapp.com/beinsport7-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317383255.png",beIN_SPORTS_8SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport8-2
+https://grgs2020.000webhostapp.com/beinsport8-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173817430.png",beIN_SPORTS_9SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9-2
+https://grgs2020.000webhostapp.com/beinsport9-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173832748.png",beIN_SPORTS_10SD
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10-2
+https://grgs2020.000webhostapp.com/beinsport10-2/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183184434963.png",beIN_SPORTS_1HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport1-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173627105.png",beIN_SPORTS_2HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport2-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173644438.png",beIN_SPORTS_3HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport3-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport3-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173659192.png",beIN_SPORTS_4HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport4-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsportw4-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173711134.png",beIN_SPORTS_5HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport5-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport5-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173724590.png",beIN_SPORTS_6HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport6-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport6-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317375196.png",beIN_SPORTS_7HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport7-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport7-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317383255.png",beIN_SPORTS_8HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport8-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport8-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173817430.png",beIN_SPORTS_9HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport9-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173832748.png",beIN_SPORTS_10HD
-#EXTVLCOPT:http-user-agent=7RhmQzXGwrJ5XwkYXFYv725
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10-3
+#EXTVLCOPT:http-user-agent=RaeedTv
+https://grgs2020.000webhostapp.com/beinsport10-3/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183184434963.png",beIN_SPORTS_1FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1-6
+https://grgs2020.000webhostapp.com/beinsport1-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173627105.png",beIN_SPORTS_2FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2-6
+https://grgs2020.000webhostapp.com/beinsport2-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173644438.png",beIN_SPORTS_3FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport3-6
+https://grgs2020.000webhostapp.com/beinsport3-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173659192.png",beIN_SPORTS_4FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport4-6
+https://grgs2020.000webhostapp.com/beinsport4-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173711134.png",beIN_SPORTS_5FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport5-6
+https://grgs2020.000webhostapp.com/beinsport5-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173724590.png",beIN_SPORTS_6FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport6-6
+https://grgs2020.000webhostapp.com/beinsport6-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317375196.png",beIN_SPORTS_7FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport7-6
+https://grgs2020.000webhostapp.com/beinsport7-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/2018317383255.png",beIN_SPORTS_8FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport8-6
+https://grgs2020.000webhostapp.com/beinsport8-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173817430.png",beIN_SPORTS_9FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9-6
+https://grgs2020.000webhostapp.com/beinsport9-5/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173832748.png",beIN_SPORTS_10FHD
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10-6
-#EXTINF:0 group-title="ARABIC SPORTS" tvg-logo="https://arb4host.com/news/wp-content/uploads/2019/05/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%AA%D8%A7%D9%8A%D9%85-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA.jpg",time sport
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=timesport
+https://grgs2020.000webhostapp.com/beinsport10-5/msftv
 #EXTINF:0 group-title="ARABIC SPORTS" tvg-logo="https://h.top4top.io/p_1544l11jn1.jpg",ONTime SPORT
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=onsport
+https://grgs2020.000webhostapp.com/onsport/msftv
 #EXTINF:0 group-title="ARABIC SPORTS" tvg-logo="https://elkooora.com/wp-content/uploads/2019/02/on-sport.png",ONTime SPORT2
-http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=onsport2
+https://grgs2020.000webhostapp.com/onsport2/msftv
 #EXTINF:0 group-title="ARABIC SPORTS" tvg-logo="https://4.bp.blogspot.com/-qdCTpDZEEbA/XI6s_rDPfOI/AAAAAAAAsb8/Y39V0sWrEKQjy9qSrVrSjZ7DeN_VBQ0TwCLcBGAs/s1600/nile%2Bsport%2Bdregy.jpg",NILE SPORT
 http://msftv.atwebpages.com/MSFtv.m3u8?user=msftv&ch=nilesport
 #EXTINF:0 group-title="ARABIC SPORTS" tvg-logo="https://cdn.kora.com/static/teams/57791cf25bfff9bbcafcad0548f97769_50x50_fixed.png",ZAMALEK TV
