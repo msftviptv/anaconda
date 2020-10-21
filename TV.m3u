@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://4.bp.blogspot.com/-5NFP0-Vio_I/WsDO85cAa-I/AAAAAAAACAM/YkCvT8CrBVk0VPiXSys5rywvXqPQMH2KgCLcBGAs/s1600/images%2B%25281%2529.png",beIN 4K
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=bein4k
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",beIN_SPORTS_1_WE
 #EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
 http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1-4
@@ -32,8 +30,7 @@ http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport9-4
 #EXTVLCOPT:http-user-agent=WSS_User_Agent_FREE1
 http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport10-4
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",beIN_SPORTS_1_Low
-#EXTVLCOPT:http-user-agent=www.yacineapp.tv
-http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport1
+https://grgs2020.000webhostapp.com/beinsport1/msftv
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173627105.png",beIN_SPORTS_2_Low
 #EXTVLCOPT:http-user-agent=www.yacineapp.tv
 http://msftv.atwebpages.com/MSFtv.php?user=msftv&ch=beinsport2
