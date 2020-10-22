@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",list
+http://stream.nmbs.top/lists/Sports.m3u8
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",beIN_SPORTS_1_WE
 #EXTVLCOPT:http-user-agent=WSS_User_Agent
 https://grgs2020.000webhostapp.com/beinsport1-4/msftv
