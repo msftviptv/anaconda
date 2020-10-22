@@ -1,0 +1,796 @@
+{
+"data": [
+{
+"id": 43,
+"name": "ENTV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Alg%C3%A9rie.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/ENTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 44,
+"name": "Canal Algerie",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/canal-algerie.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/CanalAlgerie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 45,
+"name": "Algeria 3",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Alg%C3%A9rie3.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Algeria3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 46,
+"name": "Algerie 4",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Alg%C3%A9rie4.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Algeria4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 47,
+"name": "Algerie 5",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Alg%C3%A9rie5.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Algeria5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 48,
+"name": "El Djazairia One",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/El-Djazairia-One.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Algeria1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 49,
+"name": "El Bilad TV",
+"logo": "http://aljazair24.com/wp-content/uploads/2013/12/1472916_380481142087451_441179364_n.jpg",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Bilad/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 50,
+"name": "Ennahar TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/ennahar.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://ennahar-live.dzsecurity.net/entv/EnnaharTV/chunks.m3u8"
+}
+]
+},
+{
+"id": 51,
+"name": "Echourouk News",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/echourouk.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/ChoroukNews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 52,
+"name": "Echourouk TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/echourouk-tv.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/ChoroukTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 53,
+"name": "Numidia TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/numidia.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/NumidiaTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 54,
+"name": "El Heddaf TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/el-heddaf.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/HeddafTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 55,
+"name": "Samira TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/SamiraTV.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/SamiraTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 56,
+"name": "Bahia TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/bahia-tv.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/BahiaTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 57,
+"name": "Al magharibia",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/al-magharibia.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Magharibia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 58,
+"name": "Beur TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/beur-tv.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/BeurTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 59,
+"name": "Fadjr TV DZ",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/al-fajr-tv.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/FadjerDZ/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 60,
+"name": "Al Aoula",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Aoula.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"
+}
+]
+},
+{
+"id": 61,
+"name": "Arryadia TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Arriyadia.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+}
+]
+},
+{
+"id": 62,
+"name": "Athaqafia TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Athaqafiya.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
+}
+]
+},
+{
+"id": 63,
+"name": "Al maghribia",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Almaghribia.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
+}
+]
+},
+{
+"id": 64,
+"name": "Assadissa",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Assadissa.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8"
+}
+]
+},
+{
+"id": 65,
+"name": "Tamazight TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Tamazight.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"
+}
+]
+},
+{
+"id": 66,
+"name": "2M",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/2M.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/Yacinerestream/2MMaroc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 67,
+"name": "M24TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/m24.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8"
+}
+]
+},
+{
+"id": 68,
+"name": "Medi 1 TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/medi1-tv.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w176663607.m3u8"
+}
+]
+},
+{
+"id": 69,
+"name": "BBC Arabic",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/bbc-arabic.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/bbcarabic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 70,
+"name": "Skynews Arabia",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/sky-news-arabia.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://stream.skynewsarabia.com/hls/sna.m3u8"
+}
+]
+},
+{
+"id": 71,
+"name": "Aljazeera",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/aljazeera.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+}
+]
+},
+{
+"id": 72,
+"name": "TRT Arabic",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/trt-arabic.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
+}
+]
+},
+{
+"id": 73,
+"name": "Al Hadath TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/alhadath.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
+}
+]
+},
+{
+"id": 74,
+"name": "Al Arabiya",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Arabiya.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+}
+]
+},
+{
+"id": 75,
+"name": "France 24 AR",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/France24.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8"
+}
+]
+},
+{
+"id": 76,
+"name": "RT Arabic",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/RT.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://rt-arab.secure.footprint.net/1104.m3u8"
+}
+]
+},
+{
+"id": 77,
+"name": "Al hiwar",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/alhiwar.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+}
+]
+},
+{
+"id": 78,
+"name": "Al fajr",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/alfajer.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8?"
+}
+]
+},
+{
+"id": 79,
+"name": "B4U Aflam",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/b4u-aflam.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.181.164:7777/yacinetv1833/yacinetv1833/188"
+}
+]
+},
+{
+"id": 80,
+"name": "Zee Alwan",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/zee-alwan.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/zeealwan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 81,
+"name": "Zee Aflam",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/zee-aflam.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/ZeeAflam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 82,
+"name": "Al Manar",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/al-manar.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Manar/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 83,
+"name": "Syria Drama",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/syria-drama.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/syriadrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 84,
+"name": "Syria TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/syria-tv.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/SyriaTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 85,
+"name": "Sama Syria",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/samatv.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/samasyria/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 86,
+"name": "Quran TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/QuranTV.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://streamer-1.toffeelive.com/live/quran_tv_576/index.m3u8"
+}
+]
+},
+{
+"id": 87,
+"name": "Ksa Sport 1",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/ksa-sport-1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/KsaSport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 88,
+"name": "KSA Sport 2",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/ksa-sport-2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/KsaSport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 89,
+"name": "ON Sport",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/on-sports.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/ONSport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 90,
+"name": "Al Nahar Drama",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/al-nahar-drama.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.181.164:7777/yacinetv1833/yacinetv1833/69"
+}
+]
+},
+{
+"id": 91,
+"name": "Al Nahar TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/al-nahar.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://livecdnh2.tvanywhere.ae/ss/nahar_sd.isml/Manifest?v="
+}
+]
+},
+{
+"id": 92,
+"name": "Cbc Sofra",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/cbc-sofra.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/cbcsofra/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 93,
+"name": "Cbc Extra",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/extra.jpg",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/cbcextrra/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 94,
+"name": "Al Hayat TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/al-hayat.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Alhayat/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 95,
+"name": "panorama drama",
+"logo": "http://korafreha2.com/Arabic/Panorama%20drama.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/panoramadrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 96,
+"name": "Panorama Drama 2",
+"logo": "http://korafreha2.com/Arabic/Panorama%20drama2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/panoramadrama2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 97,
+"name": "Tunsia 1",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/watania1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Tunsia1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 98,
+"name": "Tunsia 2",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/watania2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Tunsia2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 99,
+"name": "Elhiwar Ettounsi",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/alhwiar-tonsi.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/hiwarEttounsi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 100,
+"name": "Attessia TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/Ettasiaa.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Ettasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 101,
+"name": "Tunisna TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/tunisna.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Tounisna/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 102,
+"name": "Nessma TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/nessma.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/NessmaTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 103,
+"name": "Hannibal TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/hannibal.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Hannibal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 104,
+"name": "Telvza TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/telvaza.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Telvaza/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 105,
+"name": "Sahel TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/sahel-tv.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/playlist.m3u8"
+}
+]
+},
+{
+"id": 106,
+"name": "M Tunisia",
+"logo": "https://mtunisiatv.com/wp-content/uploads/2016/03/logo-mtunisiatv-300x154.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Mtunsia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 107,
+"name": "Al Janoubiya TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/al-janoubia.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Janoubia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 108,
+"name": "Carthage TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/carthage.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/CarthageTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 109,
+"name": "Abu Dhabi Drama",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/abu-dhabi-drama.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/abudhabidrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 110,
+"name": "Sama dubai",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/sama-dubai.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai"
+}
+]
+},
+{
+"id": 111,
+"name": "Abu Dhabi TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/abu-dhabi-tv.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1"
+}
+]
+},
+{
+"id": 112,
+"name": "AD Sport 1",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/ad-sport-1.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+}
+]
+},
+{
+"id": 113,
+"name": "AD Sport 2",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/ad-sport-2.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
+}
+]
+},
+{
+"id": 114,
+"name": "Nat Geo AD",
+"logo": "https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/adnatgeo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NToxNyBBTSZoYXNoX3ZhbHVlPWVoUlRCcXZ3dlNhcitHWUlUclBEY2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+}
+]
+}

@@ -1,0 +1,268 @@
+{
+"data": [
+{
+"id": 131,
+"name": "Yahala cinema",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/yahala-cinema.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnYahalacinema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 132,
+"name": "Yahala HD",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/yahala.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnYahalaHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 133,
+"name": "Yahala Aoula",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/yahala-oula.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnYahalaAoula/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 134,
+"name": "ART Aflam 1",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/aflam1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnArtaflam1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 135,
+"name": "ART Aflam 2",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/aflam2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnArtaflam2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 136,
+"name": "ART Hikayat 1",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/art-hekayat-1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Osnhikayat1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 137,
+"name": "ART Hikayat 2",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/art-hekayat-2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/Osnhikayat2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 138,
+"name": "FOX Family",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/fox-family-movies.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.181.164:7777/yacinetv1833/yacinetv1833/97"
+}
+]
+},
+{
+"id": 139,
+"name": "FOX Action",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/fox-action-movies.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.181.164:7777/yacinetv1833/yacinetv1833/96"
+}
+]
+},
+{
+"id": 140,
+"name": "FOX Rewayat",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/fox-rewayat.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.181.164:7777/yacinetv1833/yacinetv1833/95"
+}
+]
+},
+{
+"id": 141,
+"name": "Nat Geo Wild",
+"logo": "https://i.imgur.com/oOs4bX0.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.181.164:7777/yacinetv1833/yacinetv1833/110"
+}
+]
+},
+{
+"id": 142,
+"name": "Discovery HD",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/dsc.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnDiscovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 143,
+"name": "Discovery Sci",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/sci.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnDiscoverysc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 144,
+"name": "Star World",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/star-world.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8"
+}
+]
+},
+{
+"id": 145,
+"name": "Star Movies",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/star-movies.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8"
+}
+]
+},
+{
+"id": 146,
+"name": "Series First",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/osn-series-first.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/osnseriesfirst/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 147,
+"name": "Movies Drama",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/movies_drama.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.181.164:7777/yacinetv1833/yacinetv1833/103"
+}
+]
+},
+{
+"id": 148,
+"name": "OSN Action",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/action.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnAction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 149,
+"name": "OSN Movies",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/movies.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnmoviesHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 150,
+"name": "Movies First",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/movies-first.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnMoviesFirst1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 151,
+"name": "OSN Binge",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/binge.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnBinge/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 152,
+"name": "OSN Enigma",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/enigma.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnEnigma/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 153,
+"name": "OSN Kids",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/kids.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnMoviesKids/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 154,
+"name": "Kids Zone",
+"logo": "http://korafreha2.com/YacineTV_New/OSN/kdz1.jpg",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/OsnZonekids/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NTo0MyBBTSZoYXNoX3ZhbHVlPXBsRDUvM1VLemxqVnU3S1o1U2ZDV2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+}
+]
+}

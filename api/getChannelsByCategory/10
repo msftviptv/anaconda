@@ -1,0 +1,136 @@
+{
+"data": [
+{
+"id": 207,
+"name": "MBC IRAQ",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc-iraq.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/mbciraq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 208,
+"name": "MBC Maser",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc-masr.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBCMassr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 209,
+"name": "MBC Drama",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc-drama.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MbcDrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 210,
+"name": "MBC 1",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBC1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 211,
+"name": "MBC 2",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBC2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 212,
+"name": "MBC 3",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc3.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBC3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 213,
+"name": "MBC 4",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc4.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBC4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 214,
+"name": "MBC 5",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc5.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBC5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 215,
+"name": "MBC Action",
+"logo": "http://www.ostora-tv.com/uploads/images/1587459970523871496.jpg",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBCAction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 216,
+"name": "MBC Max",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc-max.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBCMax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 217,
+"name": "MBC Bollywood",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc-bollybod.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/MBCBollywood/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 218,
+"name": "MBC Variety",
+"logo": "http://korafreha2.com/YacineTV_New/mbc/mbc-variety.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/mbcvariety/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjowOSBBTSZoYXNoX3ZhbHVlPVZML0dvWHo4VU9JdWdlWnZTVE1RTVE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+}
+]
+}

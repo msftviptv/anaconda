@@ -1,0 +1,54 @@
+{
+"data": [
+{
+"id": 4,
+"name": "BEIN SPORT (720P)",
+"logo": ""
+},
+{
+"id": 5,
+"name": "BEIN SPORT (360P)",
+"logo": ""
+},
+{
+"id": 6,
+"name": "BEIN SPORT (244P)",
+"logo": ""
+},
+{
+"id": 7,
+"name": "BEIN ENTERTAINMENT",
+"logo": ""
+},
+{
+"id": 8,
+"name": "ARABIC CHANNELS",
+"logo": ""
+},
+{
+"id": 9,
+"name": "OSN CHANNELS",
+"logo": ""
+},
+{
+"id": 10,
+"name": "MBC CHANNELS",
+"logo": ""
+},
+{
+"id": 11,
+"name": "FRANCE CHANNELS",
+"logo": ""
+},
+{
+"id": 12,
+"name": "KIDS CHANNELS",
+"logo": ""
+},
+{
+"id": 13,
+"name": "ALKASS CHANNELS",
+"logo": ""
+}
+]
+}

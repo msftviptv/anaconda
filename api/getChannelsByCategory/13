@@ -1,0 +1,48 @@
+{
+"data": [
+{
+"id": 127,
+"name": "Alkass 1",
+"logo": "http://korafreha2.com/YacineTV_New/ALKASS/1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1"
+}
+]
+},
+{
+"id": 128,
+"name": "Alkass 2",
+"logo": "http://korafreha2.com/YacineTV_New/ALKASS/2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2"
+}
+]
+},
+{
+"id": 129,
+"name": "Alkass 3",
+"logo": "http://korafreha2.com/YacineTV_New/ALKASS/3.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3"
+}
+]
+},
+{
+"id": 130,
+"name": "Alkass 4",
+"logo": "http://korafreha2.com/YacineTV_New/ALKASS/4.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4"
+}
+]
+}
+]
+}

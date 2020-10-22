@@ -1,0 +1,565 @@
+{
+"data": [
+{
+"id": 156,
+"name": "beIN Sport 1 FR",
+"logo": "http://korafreha2.com/beIN%20Groupe/1.jpg",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/BeinFR1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 157,
+"name": "beIN Sport 2 FR",
+"logo": "http://korafreha2.com/beIN%20Groupe/2.jpg",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/BeinFR2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 158,
+"name": "beIN Sport 3 FR",
+"logo": "http://korafreha2.com/beIN%20Groupe/3.jpg",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/BeinFR3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 159,
+"name": "France 2",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/France2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 160,
+"name": "France 3",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/3.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/France3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 161,
+"name": "France 4",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/4.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/France4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 162,
+"name": "France 5",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/5.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/France5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 163,
+"name": "France Ô",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/o.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/FranceO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 164,
+"name": "RMC Sport 1",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/rmc_sport_1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/RmcSport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 165,
+"name": "RMC Sport 2",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/rmc_sport_2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/RmcSport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 166,
+"name": "RMC Sport 3",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/rmc_sport_3.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/RmcSport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 167,
+"name": "RMC Sport 4",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/rmc_sport_4.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/RmcSport4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 168,
+"name": "RMC Decouverte",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/rmc-decouverte.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/RmcDecouvert/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 169,
+"name": "Eurosport 1",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/euro_sport_1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/eurosport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 170,
+"name": "Eurosport 2",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/euro_sport_2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/eurosport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 171,
+"name": "TF1",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/tf1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/TF1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 172,
+"name": "France 24",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/France24.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8"
+}
+]
+},
+{
+"id": 173,
+"name": "TV5Monde",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/tv5monde.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8"
+}
+]
+},
+{
+"id": 174,
+"name": "BFM TV",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/bfmtv.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8"
+}
+]
+},
+{
+"id": 175,
+"name": "RTL9",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/rtl9.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/RTL9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 176,
+"name": "Arte",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/arte.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/Arte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 177,
+"name": "Paris Premier",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/paris_premiere.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/ParisPremier/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 178,
+"name": "13 Eme Rue",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/13eme.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/13emeRue/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 179,
+"name": "M6",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/m6.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/M6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 180,
+"name": "W9",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/w9.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/W9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 181,
+"name": "ACTION HD",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/action.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/FRAction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 182,
+"name": "CINE Emotion",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/cine%2Bemotion.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CineEmotion/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 183,
+"name": "CINE PREMIER",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/cine%2Bpremier.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CinePremier/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 184,
+"name": "CANAL PLUS",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal%2B.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/Canal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 185,
+"name": "CANAL+ SPORT",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal%2Bsports.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/canalsport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 186,
+"name": "CANAL+ CINEMA",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal%2Bcinema.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/Canalcinema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 187,
+"name": "CANAL+ DECALE",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal%2Bdecale.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalDecale/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 188,
+"name": "CANAL+ FAMILY",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal%2Bfamely.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalFamily/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 189,
+"name": "CANAL+ SERIES",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal%2Bseries.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalSeries/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 190,
+"name": "CANAL J HD",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/Canal_J.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalJ/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 191,
+"name": "CANALPLAY 1",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal_play_1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalPlay1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 192,
+"name": "CANALPLAY 2",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal_play_2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalPlay2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 193,
+"name": "CANALPLAY 3",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal_play_3.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalPlay3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 194,
+"name": "CANALPLAY 4",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal_play_4.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalPlay4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 195,
+"name": "CANALPLAY 5",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/canal_play_5.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CanalPlay5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 196,
+"name": "Planete + CI",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/planete%2Bci.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/Planetci/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 197,
+"name": "Animaux TV",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/animaux.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/AnimauxFR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 198,
+"name": "Nat Geo Wild",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/nat_geo_wild.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/FRwild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 199,
+"name": "Gulli",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/Gulli.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/goulli/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 200,
+"name": "Disney XD ",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/disney_xd.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/DisneyXD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 201,
+"name": "Boomerang FR",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/boomerang.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/FRboomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 202,
+"name": "Disney JR ",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/disney_junior.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/DisneyJR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 203,
+"name": "Cartoon Network",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/cartoon_network.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/CartoonNetworkfr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 204,
+"name": "Nickelodeon FR",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/nickelloden.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/Nicklodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 205,
+"name": "Nick JR",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/nick_jr.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/NicklodeonJr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 206,
+"name": "MANGAS",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/mangas.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/Mangas/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NjoyNyBBTSZoYXNoX3ZhbHVlPVcwd2VwanNnQjBNSzI0OXZ2Q1dGcWc9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+}
+]
+}

@@ -1,0 +1,114 @@
+{
+"data": [
+{
+"id": 21,
+"name": "beIN News",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/NEWS.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.251.193:8081/yacinetv/BeinSportNews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 22,
+"name": "beIN Sport 1",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/BeinLow1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 23,
+"name": "beIN Sport 2",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/BeinLow2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 24,
+"name": "beIN Sport 3",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/3.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinLow3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 25,
+"name": "beIN Sport 4",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/4.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinLow4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 26,
+"name": "beIN Sport 5",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/5.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinLow5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 27,
+"name": "beIN Sport 6",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/6.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinLow6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 28,
+"name": "beIN Sport 7",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/7.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinLow7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 29,
+"name": "beIN Sport 8",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/8.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinLow8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 30,
+"name": "beIN Sport 9",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/low/9.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinLow9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDoyNSBBTSZoYXNoX3ZhbHVlPTJjelYzRWh5UU5mUEkwcGJCa3l2a2c9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+}
+]
+}

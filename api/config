@@ -1,0 +1,26 @@
+{
+"data": {
+"app": {
+"version": "1.0",
+"version_code": 1,
+"update_msg": "يوجد نسخة Anaconda يق ياسين تيفي حملها الان",
+"download_link": "https://github.com/msftviptv/anaconda/raw/master/update.apk"
+},
+"nav": {
+"facebook": "anacondaapp",
+"instagram": "yacine.tv",
+"youtube": "https://www.youtube.com/channel/UC1PEWbPU5c35APsHPRtxYFg",
+"twitter": "grgs_adel",
+"email": "gergesa06@gmail.com",
+"share": "مرحبا. حمل تطبيق ياسين تيفي الان لمشاهدة جميع المباريات والعديد  بدون تقطيع من هنا: www.anacondaapp.ga",
+"privacy_policy": "https://www.anacondaapp.ga"
+},
+"player": {
+"ua": "WSS_User_Agent"
+},
+"admob": {
+"banner": "ca-app-pub-1489877166498390/5180119468",
+"interstitial": "ca-app-pub-1489877166498390/1154024791"
+}
+}
+}

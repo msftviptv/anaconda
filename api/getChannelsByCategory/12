@@ -1,0 +1,136 @@
+{
+"data": [
+{
+"id": 115,
+"name": "Nickelodeon",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/nickelloden.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/Nicklodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 116,
+"name": "Taha TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/taha.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/taha/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 117,
+"name": "CN Arabic",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/cartoon-network-arabic.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/cnarabia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 118,
+"name": "Majids Kids",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/majid.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?adtv"
+}
+]
+},
+{
+"id": 119,
+"name": "Tom & Jerry",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/tom-and-jerry.png",
+"streams": [
+{
+"name": "Default",
+"url": "https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv"
+}
+]
+},
+{
+"id": 120,
+"name": "Boomerang Kids",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/boomerang.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinBoomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 121,
+"name": "Gulli Arabic",
+"logo": "http://korafreha2.com/YacineTV_New/FranceTV/Gulli.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.100.8:8081/yacinetv/gulli/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 122,
+"name": "Gem Kids",
+"logo": "http://www.gesil.in/images/logo-gem-kids.gif",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 123,
+"name": "Karameesh TV",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/karamesh.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/karamish/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 124,
+"name": "Spacetoon",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/spacetoon.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/spacetoon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 125,
+"name": "Toyor al janah",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/toyor-aljnah.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/ToyorJanah/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 126,
+"name": "Toyor baby",
+"logo": "http://korafreha2.com/KIDS/toyorbabe.jpg",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/ToyorBaby/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1Njo0NSBBTSZoYXNoX3ZhbHVlPStjVkhlUHhBd1JwOWMvNys3Mi92ZFE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+}
+]
+}

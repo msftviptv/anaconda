@@ -1,0 +1,136 @@
+{
+"data": [
+{
+"id": 31,
+"name": "beIN Boomerang",
+"logo": "http://korafreha2.com/YacineTV_New/ARABIC/boomerang.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinBoomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 32,
+"name": "beIN Jeem",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/Jeem.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/beinjeem/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 33,
+"name": "beIN Baraem",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/Baraem.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinBaraem/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 34,
+"name": "beIN Fatafeat",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/Fatafeat.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/beinfatafeat/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 35,
+"name": "beIN Drama",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/drama.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/beindrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 36,
+"name": "beIN Gourmet",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/gourmet.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/beingourmet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 37,
+"name": "beIN Series 1",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/series_1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinSeries1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 38,
+"name": "beIN Series 2",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/series_2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinSeries2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 39,
+"name": "beIN Movies 1",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/movies_1.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinMoviesHD1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 40,
+"name": "beIN Movies 2",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/movies_2.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinMoviesHD2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 41,
+"name": "beIN Movies 3",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/movies_3.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinMoviesHD3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+},
+{
+"id": 42,
+"name": "beIN Movies 4",
+"logo": "http://korafreha2.com/YacineTV_New/beIN/movies_4.png",
+"streams": [
+{
+"name": "Default",
+"url": "http://62.210.139.222:8081/yacinetv/BeinMoviesHD4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMCAxMDo1NDo0OSBBTSZoYXNoX3ZhbHVlPXJsbEtIQkxlQ2hHSkJ0OTNhQUtsaUE9PSZ2YWxpZG1pbnV0ZXM9NjA="
+}
+]
+}
+]
+}
