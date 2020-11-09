@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",test
+#EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",test2
 https://cdn.alarab.com/h264/159189_,48,24,0p.mp4.urlset/playlist.m3u8
 #EXTINF:0 group-title="beIN SPORTS" tvg-logo="https://cne-eg.com/uploads/logos/20183173613643.png",beIN_SPORTS_1_WE
 #EXTVLCOPT:http-user-agent=WSS_User_Agent
