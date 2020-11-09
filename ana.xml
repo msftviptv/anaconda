@@ -1,0 +1,10 @@
+<Provider>
+<PlaylistUrlTemplate>http://crazytv.ws:8080/get.php?username=abosama&password=sama281&type=m3u</PlaylistUrlTemplate>
+<PlaylistUrlTemplate>http://crazytv.ws:8080/get.php?username=abosama&password=sama281&type=m3u</PlaylistUrlTemplate>
+<PlaylistUrlTemplate>http://crazytv.ws:8080/get.php?username=abosama&password=sama281&type=m3u</PlaylistUrlTemplate>
+<LockedGroup>--Adult_18+---</LockedGroup>
+<Background date="2015.08.28 00:00:00">http://besthd4u.com/newapk/freetry/freetry-background.jpg</Background>
+<Splash date="2015.08.28 00:00:00">http://besthd4u.com/newapk/freetry/provSplash-freetry.png</Splash>
+<LoginDialogInfo>Signup at www.satxtv.com to get your free codes,use availiable mailbox please!and offical codes lot channels more stable!</LoginDialogInfo>
+<brocastMessage>IPTV Free!Tell your friends or put to forum!</brocastMessage>
+</Provider>
