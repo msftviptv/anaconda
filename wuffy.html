@@ -76,10 +76,5 @@ $("#scrollable").scroll(function(a){50>$("#scrollable").scrollTop()?($("#scrolla
 </div>
  -->
 <style>#close_ad{right:1px;top:1px;float:right;z-index:9999999999;position:absolute;padding:2px;font-weight:200;border-radius:2px;border:1px solid #fff;background:#4da368;color:#fff;text-align:center;cursor:pointer;width:24px;height:24px;line-height:24px;font-size:14px}#close_ad:hover{color: #000;opacity:.9}@media only screen and (max-width: 600px){#close_ad{width:26px;height:26px;line-height:26px;font-size:18px}}#ad_asd div{position:relative;top:2px}#ad_asd{text-align:center;position:fixed;z-index:999999999;background-color:#1b1b1b;border:1px solid #666;height:250px;width:300px;overflow:hidden;border-radius:2px;-webkit-border-radius:2px;-moz-border-radius:2px;-khtml-border-radius:2px;top:50%;right:50%;transform:translate(50%,-50%)}.slide_in{animation:slide_in .5s forwards;-webkit-animation:slide_in .5s forwards}.slide_out{animation:slide_out .5s forwards;-webkit-animation:slide_out .5s forwards}@keyframes slide_in{0%{transform:translateX(50%)}}@-webkit-keyframes slide_in{50%{-webkit-transform:translateX(50%)}}@keyframes slide_out{100%{transform:translateX(50%)}}</style>
-<div id="ad_asd" class="slide_in">
-<span title="Close" id="close_ad">X</span>
-<div>
-<script src="//ads.projectagoraservices.com/?id=10241" type="text/javascript"></script></div>
-</div> 
-<script>var elem=document.getElementById("close_ad");elem.addEventListener("click touchstart",handler,!1);elem.addEventListener("click",handler,!1);function handler(b){var a=document.getElementById("ad_asd");b=a.classList.contains("slide_in");setTimeout(function(){a.parentNode.removeChild(a)},500);a.setAttribute("class",b?"slide_out":"slide_in")};</script></body>
+</body>
 </html>
