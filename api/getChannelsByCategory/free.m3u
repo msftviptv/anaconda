@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",تحميل تطبيق MSFtv
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",MSFtv  تحميل تطبيق 
 https://dl.dropbox.com/s/v954jaba9o7g25e/88d9f36020fa27b76f712094591dbbfc.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="" group-title="وقت المباريات فقط"
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="" group-title="وقت المباريات فقط"LIVE 1
 http://141.98.247.253/app/ch1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="" group-title="وقت المباريات فقط"
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="" group-title="وقت المباريات فقط"LIVE 2
 http://141.98.247.253/app/ch2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="beIN Sports low",BEIN SPORT LOW 1 BACKUP
