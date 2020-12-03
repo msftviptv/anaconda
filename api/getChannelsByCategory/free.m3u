@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/gDvhUjSWJwPgFz6J8",MSFtv  تحميل تطبيق 
 https://dl.dropbox.com/s/v954jaba9o7g25e/88d9f36020fa27b76f712094591dbbfc.mp4
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1" tvg-logo="" group-title="MATCHES",LIVE 1
-https://centurylink.br.cdn.booyah.live/hls/1000027/34352282.m3u8
+ttps://stream.taghtia.com/http://de1.thefitnesshints.com/live/ch01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="" group-title="MATCHES",LIVE 2
-http://sansat.net:25461/02022238651498/2AX9yUpfEE/102234
+https://stream.taghtia.com/http://de1.thefitnesshints.com/live/ch02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 3" tvg-logo="" group-title="MATCHES",LIVE 3
-https://centurylink.br.cdn.booyah.live/hls/1000027/34352282.m3u8
+https://stream.taghtia.com/http://de1.thefitnesshints.com/live/c5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="" group-title="MATCHES",LIVE 4
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/dffb807579c0e96.m3u8
 
@@ -204,9 +204,9 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/20917cd44e57446e8db30d4e2abef079/index4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport2
-http://tv4all.cyou:80/3030498113/0405515466/29172
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/3911b3c7972b46fc90785734fa392df8/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport3
-http://tv4all.cyou:80/3030498113/0405515466/29173
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/422779c1c37349e5b920e5d7d290d596/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport4
 http://tv4all.cyou:80/3030498113/0405515466/29193
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SP-ESPN
