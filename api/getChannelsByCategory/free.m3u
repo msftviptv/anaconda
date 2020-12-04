@@ -166,25 +166,16 @@ http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",An-Najah Nbc
 http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",on time Sport 1
-http://channelsstream.xyz:8080/live/streeem/streeem/112.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/42.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",on time Sport 2
-http://channelsstream.xyz:8080/live/streeem/streeem/113.m3u8
+http://posterboot.xyz:8080/live/streeem/streeem/43.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AR_ON Sport" tvg-logo="" group-title="Arabic Sport",AR_ON Sport
-http://ipdax.top:8080/hatmyx/hjghyut/74
-#EXTINF:-1 tvg-id="" tvg-name="AR_ON Sport 2" tvg-logo="" group-title="Arabic Sport",AR_ON Sport 2
-http://ipdax.top:8080/hatmyx/hjghyut/75
 
-#EXTINF:-1 tvg-id="KSA Sports1" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports1
-http://bit.do/Neds1
 
-#EXTINF:-1 tvg-id="KSA Sports2" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports2 
-http://bit.do/Neds2
-
-#EXTINF:-1 tvg-id="KSA Sports1" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports1 s2
+#EXTINF:-1 tvg-id="KSA Sports1" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports1 
 http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2530
 
-#EXTINF:-1 tvg-id="KSA Sports2" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports2 s2
+#EXTINF:-1 tvg-id="KSA Sports2" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports2
 http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2531
 
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="Al Kass One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 1
