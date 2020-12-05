@@ -64,6 +64,31 @@ http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45307
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="http://190.2.141.126:25461/logos/bein/be_in_mena_sports_10_hd.jpg" group-title="Bein - SPORTS HD°",BEIN SPORTS 10 HD
 http://strong-livetv.com:80/laM20@mar/Fhjkytfd/45310
 
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 1
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6123/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 2
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1343
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 3
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 4
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6125/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 5
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6126/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 6
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6127/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 7
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6128/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 8" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 8
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6129/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 9" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 9
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6130/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 10" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 10
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6131/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 11
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 12
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6133/index.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN1" tvg-logo="" group-title="beIN SPORTS FHD*",beIN:beIN1
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
 #EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN2" tvg-logo="" group-title="beIN SPORTS FHD*",beIN:beIN2
@@ -195,11 +220,11 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/20917cd44e57446e8db30d4e2abef079/index4.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport2
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/3911b3c7972b46fc90785734fa392df8/index1.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport3
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/422779c1c37349e5b920e5d7d290d596/index2.m3u8
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport4
 http://tv4all.cyou:80/3030498113/0405515466/29193
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SP-ESPN
@@ -302,7 +327,36 @@ http://digitalxpress.gcdn.co/live1/canal+sport2/index.m3u8
 http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium2
 http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Premier HD1
+https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Premier HD2
+https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Premier HD3
+http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Premier HD4
+http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Premier HD5
+http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE SPORT HD1
+http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE SPORT HD2
+http://160.119.77.116:8081/iptv/sd-tsport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE SPORT HD3
+http://160.119.77.116:8081/iptv/hd-tsport3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE SPORT HD4
+http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE SPORT HD5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE SPORT HD6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE SPORT HD7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE NBA
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",setanta Sport
+http://188.93.95.67:80/setanta/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",setanta Sport plus
+http://188.93.95.67:80/setantaplus/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV + FHD
