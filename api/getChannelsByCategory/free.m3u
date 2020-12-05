@@ -9,9 +9,9 @@ https://stream.taghtia.com/http://de1.thefitnesshints.com/live/ch02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 3" tvg-logo="" group-title="MATCHES",LIVE 3
 https://stream.taghtia.com/http://de1.thefitnesshints.com/live/c5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="" group-title="MATCHES",LIVE 4
-http://akamaized.northeurope.cloudapp.azure.com/hls/index4.m3u8
+https://centurylink.br.cdn.booyah.live/hls/1000011/35208462.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 5" tvg-logo="" group-title="MATCHES",LIVE 5
-http://snaptv.watch:80/mag00:1A:79:57:B5:0D/60TI9ky2KN/27707
+https://akamai2-mx.cdn.booyah.live/hls/210150/34835050.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1" tvg-logo="" group-title="beIN Sports low",BEIN SPORT LOW 1
 http://best-live-iptv.xyz:25461/BEST-LIVE4433/BEST-LIVE4433/15
