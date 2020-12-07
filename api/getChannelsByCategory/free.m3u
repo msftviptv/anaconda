@@ -1811,6 +1811,321 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-ID="Moviemax Stars TR" tvg-name="FR_FRANCE_02_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france2.png" group-title="Francaise HD",FR_FRANCE_02_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3217
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_France_03_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france3.png" group-title="Francaise HD",FR_France_03_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2500
+#EXTINF:-1 tvg-ID="Moviemax Stars TR" tvg-name="FR_France_04_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france4.png" group-title="Francaise HD",FR_France_04_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3218
+#EXTINF:-1 tvg-ID="France5.fr" tvg-name="FR_FRANCE_5_HD" tvg-logo="http://logofun.ddns.net:25461/logo/France 5.png" group-title="Francaise HD",FR_FRANCE_5_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4005
+#EXTINF:-1 tvg-ID="France Ô FR" tvg-name="FR_FRANCE_O_HD" tvg-logo="http://logofun.ddns.net:25461/logo/franceo.png" group-title="Francaise HD",FR_FRANCE_O_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2528
+#EXTINF:-1 tvg-ID="Franceinfo.fr" tvg-name="FR_FRANCE_INFO_HD" tvg-logo="http://logofun.ddns.net:25461/logo/france info.png" group-title="Francaise HD",FR_FRANCE_INFO_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48877
+#EXTINF:-1 tvg-ID="CanalPlus.fr" tvg-name="FR_CANAL+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplus.png" group-title="Francaise HD",FR_CANAL+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3326
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_CANAL+_sports_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplussport.png" group-title="Francaise HD",FR_CANAL+_sports_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50145
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_CANAl+_CINEMA_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalpluscinema.png" group-title="Francaise HD",FR_CANAl+_CINEMA_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49749
+#EXTINF:-1 tvg-ID="CANALplusFamily.fr" tvg-name="FR_CANAL+_FAMILY_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplusfamily.png" group-title="Francaise HD",FR_CANAL+_FAMILY_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2639
+#EXTINF:-1 tvg-ID="CANALplusDECALE.fr" tvg-name="FR_CANAL+_DECALE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalplusdecale.png" group-title="Francaise HD",FR_CANAL+_DECALE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1994
+#EXTINF:-1 tvg-ID="" tvg-name="FR_CANAL+_Series_HD" tvg-logo="" group-title="Francaise HD",FR_CANAL+_Series_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52962
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_CANAL_J_HD" tvg-logo="http://logofun.ddns.net:25461/logo/canalj.png" group-title="Francaise HD",FR_CANAL_J_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1460
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Cine_Premier_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cinepluspremier.png" group-title="Francaise HD",FR_Cine_Premier_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3327
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="Fr_Cine_Frisson_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusfrisson.png" group-title="Francaise HD",Fr_Cine_Frisson_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3328
+#EXTINF:-1 tvg-ID="Cine+ Famiz HD FR" tvg-name="FR_Cine_Famiz_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusfamiz.png" group-title="Francaise HD",FR_Cine_Famiz_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3330
+#EXTINF:-1 tvg-ID="Cine+ Émotion HD FR" tvg-name="FR_Cine_Emotion_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusemotion.png" group-title="Francaise HD",FR_Cine_Emotion_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/84
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Cine_Classic_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cineplusclassic.png" group-title="Francaise HD",FR_Cine_Classic_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/82
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_Cine_POLAR_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cinepolar.png" group-title="Francaise HD",FR_Cine_POLAR_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/128
+#EXTINF:-1 tvg-ID="OCSGeants.fr" tvg-name="FR_OCS_GEANT_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocsgeants.png" group-title="Francaise HD",FR_OCS_GEANT_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/90
+#EXTINF:-1 tvg-ID="OCSChoc.fr" tvg-name="FR_OCS_CHOC_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocschoc.png" group-title="Francaise HD",FR_OCS_CHOC_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/89
+#EXTINF:-1 tvg-ID="OCSCity.fr" tvg-name="FR_OCS_City_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocscity.png" group-title="Francaise HD",FR_OCS_City_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/88
+#EXTINF:-1 tvg-ID="" tvg-name="FR_OCS_Max_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ocsmax.png" group-title="Francaise HD",FR_OCS_Max_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/87
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_TF1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tf1.png" group-title="Francaise HD",FR_TF1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3316
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TF1_HD_+1" tvg-logo="http://logofun.ddns.net:25461/logo/tf1.png" group-title="Francaise HD",FR_TF1_HD_+1
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51664
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TF1_SERIES_FILMS_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tf1seriesfilms.png" group-title="Francaise HD",FR_TF1_SERIES_FILMS_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3224
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_M6_HD" tvg-logo="http://logofun.ddns.net:25461/logo/m6.png" group-title="Francaise HD",FR_M6_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2664
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_RTL9_HD" tvg-logo="http://logofun.ddns.net:25461/logo/rtl9.png" group-title="Francaise HD",FR_RTL9_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/375
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_13eme_Rue_HD" tvg-logo="http://logofun.ddns.net:25461/logo/13emerue.png" group-title="Francaise HD",FR_13eme_Rue_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3346
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_W9_HD" tvg-logo="http://logofun.ddns.net:25461/logo/w9.png" group-title="Francaise HD",FR_W9_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3221
+#EXTINF:-1 tvg-ID="Action.fr" tvg-name="FR_ACTION_HD" tvg-logo="http://logofun.ddns.net:25461/logo/action.png" group-title="Francaise HD",FR_ACTION_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/126
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Syfy_HD" tvg-logo="http://logofun.ddns.net:25461/logo/syfy.png" group-title="Francaise HD",FR_Syfy_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3220
+#EXTINF:-1 tvg-ID="" tvg-name="FR_MY_CUISINE_HD" tvg-logo="" group-title="Francaise HD",FR_MY_CUISINE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52702
+#EXTINF:-1 tvg-ID="" tvg-name="FR_MY_COMEDY" tvg-logo="" group-title="Francaise HD",FR_MY_COMEDY
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52489
+#EXTINF:-1 tvg-ID="CStar.fr" tvg-name="FR_C_Star_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cstar.png" group-title="Francaise HD",FR_C_Star_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/103
+#EXTINF:-1 tvg-ID="C8.fr" tvg-name="FR_C8_HD" tvg-logo="http://logofun.ddns.net:25461/logo/c8.png" group-title="Francaise HD",FR_C8_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/102
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TREK_HD" tvg-logo="http://logofun.ddns.net:25461/logo/trek.png" group-title="Francaise HD",FR_TREK_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3678
+#EXTINF:-1 tvg-ID="TFX.fr" tvg-name="FR_TFX_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tfx.png" group-title="Francaise HD",FR_TFX_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/376
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_TCM_Cinema_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tcmcinema.png" group-title="Francaise HD",FR_TCM_Cinema_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1696
+#EXTINF:-1 tvg-ID="Série Club HD FR" tvg-name="FR_SERIE_CLUB_HD" tvg-logo="http://logofun.ddns.net:25461/logo/serieclub.png" group-title="Francaise HD",FR_SERIE_CLUB_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3222
+#EXTINF:-1 tvg-ID="6ter HD FR" tvg-name="FR_6ter_HD" tvg-logo="http://logofun.ddns.net:25461/logo/6ter.png" group-title="Francaise HD",FR_6ter_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2499
+#EXTINF:-1 tvg-ID="Téva FHD FR" tvg-name="FR_TEVA_HD" tvg-logo="http://logofun.ddns.net:25461/logo/teva.png" group-title="Francaise HD",FR_TEVA_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2501
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Crime_District_HD" tvg-logo="http://logofun.ddns.net:25461/logo/crimedistrict.png" group-title="Francaise HD",FR_Crime_District_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51046
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Tvm3" tvg-logo="" group-title="Francise FullHD",FR_Tvm3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2660
+#EXTINF:-1 tvg-ID="TMC FHD FR" tvg-name="FR_TMC_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tmc.png" group-title="Francaise HD",FR_TMC_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3223
+#EXTINF:-1 tvg-ID="" tvg-name="FR_AB3" tvg-logo="http://logofun.ddns.net:25461/logo/ab3.png" group-title="Francaise HD",FR_AB3
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1694
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Arte_HD" tvg-logo="http://logofun.ddns.net:25461/logo/arte.png" group-title="Francaise HD",FR_Arte_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/373
+#EXTINF:-1 tvg-ID="ChassePeche.fr" tvg-name="FR_Chasse_et_Peche" tvg-logo="http://logofun.ddns.net:25461/logo/chasseetpeche.png" group-title="Francaise HD",FR_Chasse_et_Peche
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/116
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_NATIONAL_GEO_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nationalgeographic.png" group-title="Francaise HD",FR_NATIONAL_GEO_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/113
+#EXTINF:-1 tvg-ID="Paramount Channel HD FR" tvg-name="FR_PARAMOUNT_CHANNEL_HD" tvg-logo="http://logofun.ddns.net:25461/logo/paramountchannel.png" group-title="Francaise HD",FR_PARAMOUNT_CHANNEL_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2291
+#EXTINF:-1 tvg-ID="" tvg-name="FR_PARAMOUNT_CHANNEL_DECALE_HD" tvg-logo="" group-title="Francaise HD",FR_PARAMOUNT_CHANNEL_DECALE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51173
+#EXTINF:-1 tvg-ID="" tvg-name="FR_NATIONAL_GEO_WILD_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nationalgeographicwild.png" group-title="Francaise HD",FR_NATIONAL_GEO_WILD_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3397
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_Science_et_Vie_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Science_et_Vie.jpg" group-title="Francaise HD",FR_Science_et_Vie_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2662
+#EXTINF:-1 tvg-ID="" tvg-name="FR_NRJ_12_HD" tvg-logo="http://logofun.ddns.net:25461/logo/nrj12.png" group-title="Francaise HD",FR_NRJ_12_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1456
+#EXTINF:-1 tvg-ID="ParisPremiere.fr" tvg-name="FR_PARIS_PREMIERE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/parispremiere.png" group-title="Francaise HD",FR_PARIS_PREMIERE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/119
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_AB_MOTEURS_HD" tvg-logo="http://logofun.ddns.net:25461/logo/abmoteurs.png" group-title="Francaise HD",FR_AB_MOTEURS_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1792
+#EXTINF:-1 tvg-ID="" tvg-name="FR_AB1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ab1.png" group-title="Francaise HD",FR_AB1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/123
+#EXTINF:-1 tvg-ID="TV Breizh FR" tvg-name="FR_TVBREIZH_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tvbreizh.png" group-title="Francaise HD",FR_TVBREIZH_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1562
+#EXTINF:-1 tvg-ID="" tvg-name="FR_COMEDIE+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/comedieplus.png" group-title="Francaise HD",FR_COMEDIE+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1458
+#EXTINF:-1 tvg-ID="" tvg-name="FR_ELLE_GIRL_HD" tvg-logo="http://logofun.ddns.net:25461/logo/ellegirl.png" group-title="Francaise HD",FR_ELLE_GIRL_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3184
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Cherie_25_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cherie25.png" group-title="Francaise HD",FR_Cherie_25_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1459
+#EXTINF:-1 tvg-ID="Animaux.fr" tvg-name="FR_ANIMAUX_HD" tvg-logo="http://logofun.ddns.net:25461/logo/animaux.png" group-title="Francaise HD",FR_ANIMAUX_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/114
+#EXTINF:-1 tvg-ID="" tvg-name="FR_IL_TV" tvg-logo="http://logofun.ddns.net:25461/logo/ILTV.png" group-title="Francaise HD",FR_IL_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1685
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Alsace_20_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Alsace20.png" group-title="Francaise HD",FR_Alsace_20_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1683
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Toute_l'Histoire_HD" tvg-logo="http://logofun.ddns.net:25461/logo/toutelhistoire.png" group-title="Francaise HD",FR_Toute_l'Histoire_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4496
+#EXTINF:-1 tvg-ID="UshuaiaTV.fr" tvg-name="FR_Ushuaia_TV" tvg-logo="http://logofun.ddns.net:25461/logo/ushuaiatv.png" group-title="Francaise HD",FR_Ushuaia_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/112
+#EXTINF:-1 tvg-ID="Discovery.fr" tvg-name="FR_Discovery_HD" tvg-logo="http://logofun.ddns.net:25461/logo/discoverychannel.png" group-title="Francaise HD",FR_Discovery_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/109
+#EXTINF:-1 tvg-ID="DiscoveryScience.fr" tvg-name="FR_Discovery_Science_HD" tvg-logo="http://logofun.ddns.net:25461/logo/discoveryscience-clivebesle.png" group-title="Francaise HD",FR_Discovery_Science_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/110
+#EXTINF:-1 tvg-ID="" tvg-name="FR_I24_HD" tvg-logo="" group-title="Francaise HD",FR_I24_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1644
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Voyage_HD" tvg-logo="" group-title="Francaise HD",FR_Voyage_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/124
+#EXTINF:-1 tvg-ID="" tvg-name="FR_PLANETE_A&E_HD" tvg-logo="http://logofun.ddns.net:25461/logo/planeteplusaventureexperience.png" group-title="Francaise HD",FR_PLANETE_A&E_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4495
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_PLANETE+_CI" tvg-logo="" group-title="Francaise HD",FR_PLANETE+_CI
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2058
+#EXTINF:-1 tvg-ID="" tvg-name="FR_PLANETE+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Planete+.png" group-title="Francaise HD",FR_PLANETE+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4494
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_Business_HD" tvg-logo="http://logofun.ddns.net:25461/logo/bfmbusiness.png" group-title="Francaise HD",FR_BFM_Business_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/379
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_TV" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/378
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_PARIS" tvg-logo="http://logofun.ddns.net:25461/logo/bfmparis.png" group-title="Francaise HD",FR_BFM_PARIS
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48846
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BFM_LYON" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_LYON
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52487
+#EXTINF:-1 tvg-ID="BFM TV FR" tvg-name="FR_BFM_LILLE" tvg-logo="http://logofun.ddns.net:25461/logo/bfmtv.png" group-title="Francaise HD",FR_BFM_LILLE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52488
+#EXTINF:-1 tvg-ID="CanalPlusSPORT2.csr" tvg-name="FR_SEASON_HD" tvg-logo="http://logofun.ddns.net:25461/logo/seasons.png" group-title="Francaise HD",FR_SEASON_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2892
+#EXTINF:-1 tvg-ID="" tvg-name="FR_M6_Music" tvg-logo="http://logofun.ddns.net:25461/logo/m6music.png" group-title="Francaise HD",FR_M6_Music
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/97
+#EXTINF:-1 tvg-ID="" tvg-name="FR_MTV_Base_HD" tvg-logo="http://logofun.ddns.net:25461/logo/mtvbase.png" group-title="Francaise HD",FR_MTV_Base_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1667
+#EXTINF:-1 tvg-ID="CanalPlusDiscovery.pl" tvg-name="FR_MTV_MUSIC" tvg-logo="http://logofun.ddns.net:25461/logo/mtvmusic.png" group-title="Francaise HD",FR_MTV_MUSIC
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1668
+#EXTINF:-1 tvg-ID="" tvg-name="FR_NRJ_hit" tvg-logo="" group-title="Francaise HD",FR_NRJ_hit
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1455
+#EXTINF:-1 tvg-ID="" tvg-name="FR_France_24" tvg-logo="" group-title="Francaise HD",FR_France_24
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/101
+#EXTINF:-1 tvg-ID="" tvg-name="FR_LA_CHAINE_NORMANDIE" tvg-logo="http://logofun.ddns.net:25461/logo/LA_CHAINE_NORMANDIE.JPG" group-title="Francaise HD",FR_LA_CHAINE_NORMANDIE
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1686
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TV5_MONDE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tv5monde.png" group-title="Francaise HD",FR_TV5_MONDE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49608
+#EXTINF:-1 tvg-ID="Gulli.fr" tvg-name="FR_Gulli_HD" tvg-logo="http://logofun.ddns.net:25461/logo/gulli.png" group-title="Francaise HD",FR_Gulli_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/117
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Nickelodeon_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Nickelodeon.png" group-title="Francaise HD",FR_Nickelodeon_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3843
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Mangas_HD" tvg-logo="http://logofun.ddns.net:25461/logo/mangas.png" group-title="Francaise HD",FR_Mangas_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/122
+#EXTINF:-1 tvg-ID="13Rue.fr" tvg-name="FR_Nickelodeon_4_Teens_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Nickelodeon4teen.jpg" group-title="Francaise HD",FR_Nickelodeon_4_Teens_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/4727
+#EXTINF:-1 tvg-ID="PIWI.fr" tvg-name="FR_Piwi_HD" tvg-logo="http://logofun.ddns.net:25461/logo/piwiplus.png" group-title="Francaise HD",FR_Piwi_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/374
+#EXTINF:-1 tvg-ID="" tvg-name="FR_TELETOON+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/teletoonplus.png" group-title="Francaise HD",FR_TELETOON+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/94
+#EXTINF:-1 tvg-ID="TIJI HD FR" tvg-name="FR_TIJI_HD" tvg-logo="http://logofun.ddns.net:25461/logo/tiji.png" group-title="Francaise HD",FR_TIJI_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2102
+#EXTINF:-1 tvg-ID="" tvg-name="FR_GINX_TV" tvg-logo="" group-title="Francaise HD",FR_GINX_TV
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52053
+#EXTINF:-1 tvg-ID="DisneyJunior.fr" tvg-name="FR_DISNEY_JUNIOR_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneyjunior.png" group-title="Francaise HD",FR_DISNEY_JUNIOR_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48619
+#EXTINF:-1 tvg-ID="" tvg-name="FR_DISNEY_CHANNEL_+1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneychannelplus1.png" group-title="Francaise HD",FR_DISNEY_CHANNEL_+1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3174
+#EXTINF:-1 tvg-ID="DisneyChannel.fr" tvg-name="FR_Disney_Channel_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneychannel.png" group-title="Francaise HD",FR_Disney_Channel_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/120
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BOING_HD" tvg-logo="http://logofun.ddns.net:25461/logo/boing.png" group-title="Francaise HD",FR_BOING_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1457
+#EXTINF:-1 tvg-ID="JOne.fr" tvg-name="FR_J-ONE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/j-one.jpg" group-title="Francaise HD",FR_J-ONE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48781
+#EXTINF:-1 tvg-ID="Toonami FHD FR" tvg-name="FR_TOONAMI_HD" tvg-logo="http://logofun.ddns.net:25461/logo/toonami.png" group-title="Francaise HD",FR_TOONAMI_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50800
+#EXTINF:-1 tvg-ID="Cartoon Network HD FR" tvg-name="FR_Cartoon_Network_HD" tvg-logo="http://logofun.ddns.net:25461/logo/cartoonnetwork.png" group-title="Francaise HD",FR_Cartoon_Network_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50953
+#EXTINF:-1 tvg-ID="RTL9.fr" tvg-name="FR_Disney_Cinema_HD" tvg-logo="http://logofun.ddns.net:25461/logo/disneycinema.png" group-title="Francaise HD",FR_Disney_Cinema_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50936
+#EXTINF:-1 tvg-ID="Nick Jr. FR" tvg-name="FR_NICKELODEON_JR" tvg-logo="http://logofun.ddns.net:25461/logo/nickelodeonjunior.png" group-title="Francaise HD",FR_NICKELODEON_JR
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51662
+#EXTINF:-1 tvg-ID="GameOne.fr" tvg-name="FR_GAME_ONE_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Game_One.png" group-title="Francaise HD",FR_GAME_ONE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2105
+#EXTINF:-1 tvg-ID="Boomerang.fr" tvg-name="FR_Boomerang_HD" tvg-logo="http://logofun.ddns.net:25461/logo/boomerang.png" group-title="Francaise HD",FR_Boomerang_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1461
+#EXTINF:-1 tvg-ID="EquidiaLive.fr" tvg-name="FR_Equidia_Live_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Equidia Live.png" group-title="Francaise HD",FR_Equidia_Live_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2897
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="FR_INFOSPORT" tvg-logo="http://logofun.ddns.net:25461/logo/infosportplus.png" group-title="Francaise HD",FR_INFOSPORT
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/91
+#EXTINF:-1 tvg-ID="Golfplus.fr" tvg-name="FR_GOLF+_HD" tvg-logo="http://logofun.ddns.net:25461/logo/golfplus.png" group-title="Francaise HD",FR_GOLF+_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2452
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Golf_HD" tvg-logo="" group-title="Francaise HD",FR_Golf_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49862
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Foot+ 24/24_HD" tvg-logo="http://logofun.ddns.net:25461/logo/footplus2424.png" group-title="Francaise HD",FR_Foot+ 24/24_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51646
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_1_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3682
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_2_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_2_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47302
+#EXTINF:-1 tvg-ID="" tvg-name="FR_BeIN_SPORTS_3_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_BeIN_SPORTS_3_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3680
+#EXTINF:-1 tvg-ID="4Ε.gr" tvg-name="FR_RMC_Sport_03_HD" tvg-logo="http://logofun.ddns.net:25461/logo/Sfr_sport_3.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_03_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46712
+#EXTINF:-1 tvg-ID="" tvg-name="FR_EUROSPORT_1_HD" tvg-logo="http://logofun.ddns.net:25461/logo/eurosport1.png" group-title="Francaise HD",FR_EUROSPORT_1_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51512
+#EXTINF:-1 tvg-ID="" tvg-name="FR_EUROSPORT_2_HD" tvg-logo="http://logofun.ddns.net:25461/logo/eurosport2.png" group-title="Francaise HD",FR_EUROSPORT_2_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51513
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_01_HD" tvg-logo="http://logofun.ddns.net:25461/logo/SFR-Sport-1.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_01_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3720
+#EXTINF:-1 tvg-ID="" tvg-name="FR_L_EQUIPE_HD" tvg-logo="" group-title="Francaise HD",FR_L_EQUIPE_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52719
+#EXTINF:-1 tvg-ID="" tvg-name="FR_DISCOVERY_FAMILY_HD" tvg-logo="" group-title="Francaise HD",FR_DISCOVERY_FAMILY_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52741
+#EXTINF:-1 tvg-ID="" tvg-name="FR_FOOT+ 24/24 HD" tvg-logo="" group-title="Francaise HD",FR_FOOT+ 24/24 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47781
+#EXTINF:-1 tvg-ID="4Ε.gr" tvg-name="FR_RMC_Sport_02_HD" tvg-logo="http://logofun.ddns.net:25461/logo/sfr_sport_2.jpg" group-title="SFR + BEIN Sport France",FR_RMC_Sport_02_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46711
+#EXTINF:-1 tvg-ID="" tvg-name="FR_Euronews_HD" tvg-logo="" group-title="Francaise HD",FR_Euronews_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52821
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_01_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_01_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2252
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_02_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_02_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2103
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_03_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_03_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/2279
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_Sport_04_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_Sport_04_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50383
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_04_FullHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_SPORT_04_FullHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/50384
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_ACCESS_SPORT_01_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_ACCESS_SPORT_01_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51267
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_ACCESS_SPORT_02_HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR_RMC_ACCESS_SPORT_02_HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51268
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 5" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 5
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51276
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 6" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 6
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51275
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 7" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 7
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51274
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 8" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 8
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51273
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 9" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 9
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51272
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 10" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 10
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51271
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 11" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 11
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51270
+#EXTINF:-1 tvg-ID="" tvg-name="FR_RMC_SPORT_LIVE 12" tvg-logo="" group-title="Francise FullHD",FR_RMC_SPORT_LIVE 12
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51269
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52916
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/52918
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT 4K" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT 4K
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53043
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 1 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 1 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53117
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 1 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 1 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53125
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 2 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 2 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53118
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 2 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 2 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53126
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 3 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 3 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53124
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 3 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 3 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53127
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 4 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 4 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53119
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 4 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 4 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53128
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 5 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 5 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53120
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 5 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 5 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53129
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 6 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 6 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53121
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 6 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 6 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53130
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 7 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 7 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53122
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 7 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 7 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53131
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT STADIUM 8 HD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT STADIUM 8 HD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53123
+#EXTINF:-1 tvg-ID="" tvg-name="FR: TELEFOOT Stadium 8 FHD" tvg-logo="" group-title="SFR + BEIN Sport France",FR: TELEFOOT Stadium 8 FHD
+http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/53132
+
+
+
 
 
 
