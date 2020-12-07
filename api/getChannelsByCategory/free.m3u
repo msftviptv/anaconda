@@ -464,6 +464,8 @@ http://eaiptv.net:8888/wwerr2w/erwfrf/17817
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS FOOTBALL UK
 https://dx3.gcdn.co/SKYSPORTSFOOTBALLHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS PL UK
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/3911b3c7972b46fc90785734fa392df8/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS ARENA UK
 https://dx3.gcdn.co/SKYSPORTSARENAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS ACTION UK
