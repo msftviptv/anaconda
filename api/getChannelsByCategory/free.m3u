@@ -11,7 +11,7 @@ https://livestream.rheotv.com/live/NNzQXvo/low/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="" group-title="MATCHES",LIVE 4
 https://livestream.rheotv.com/live/9K7Dkeh/low/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 5" tvg-logo="" group-title="MATCHES",LIVE 5
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/d1192d904efe496fa01cd23352cbe99b/index5.m3u8
+http://www.elahmad.com:80/tv/m3u8/elahmad.php?http://176.58.79.17:8080/hls2/sport1.m3u8?token=ohe13nWzGDo83boGmPdZpQ&e=1607549022&channel=sport1
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1" tvg-logo="" group-title="beIN Sports low",BEIN SPORT LOW 1
 http://best-live-iptv.xyz:25461/BEST-LIVE6767/BEST-LIVE6767/15
