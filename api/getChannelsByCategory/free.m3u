@@ -85,7 +85,7 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6130/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 10" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 10
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6131/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 11
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
+http://ongbak.azureedge.net:80/hls/beinsport/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="beIN SPORTS H265",BEIN SPORTS 12
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6133/index.m3u8
 
