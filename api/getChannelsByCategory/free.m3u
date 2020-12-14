@@ -395,6 +395,11 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlit.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Digi Sport 4
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",GOL
+http://a2.aliez.me:8080/hls/streama140293/index.m3u8?st=d
+
+
+
 
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV + FHD
