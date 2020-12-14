@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+  <script>
+    $(function(){
+    $.ajax({
+      url: "https://www.filgoal.com/matches/ajaxlist?date=2020-12-15",
+      dataType: "JSON",
+      cash: false,
+      success; function(data, statues) {
+        $.each(data,  function(index) {
+         
+          $("#show").append('<div>' + data[index].HomeTeamName'</div>');
+        });
+        },
+        error: function(xhr, textstatus, err) {
+          console.log(xhr);
+          console.log(textstatus);
+          console.log(err);
+      
+    });
+  });
+    </script>
+
+</body>
+</html>
