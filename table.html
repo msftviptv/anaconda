@@ -12,9 +12,9 @@
       dataType: "json",
       cash: false,
       success: function(data, statues) {
-        $.each(data,  function(index) {
+        $.each(data,  function(index,r) {
          
-          $("#show").append('<div>' + data[index].HomeTeamName +'</div>');
+          $("#show").append('<div>' + data[index].r.HomeTeamName +'</div>');
         });
         },
         error: function(xhr, textstatus, err) {
