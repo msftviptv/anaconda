@@ -135,7 +135,24 @@ http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/784
 #EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 10
 http://important.ydns.eu:25461/DominoSolkatDiscourd/Ey46VwQlP4ZsdFa/785
 
-
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 1 HD
+http://135.181.31.32/hls/bein1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 2 HD
+http://135.181.31.32/hls/bein2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 3 HD
+http://135.181.31.32/hls/bein3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 4 HD
+http://135.181.31.32/hls/bein4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 5 HD
+http://135.181.31.32/hls/bein5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 6 HD
+http://135.181.31.32/hls/bein6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 7 HD
+http://135.181.31.32/hls/bein7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 8 HD
+http://135.181.31.32/hls/bein8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="" group-title="BEIN SPORTS HD",beIN Sport 9 HD
+http://135.181.31.32/hls/bein9.m3u8
 
 
 
