@@ -238,126 +238,86 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master.m3u8
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS FOOTBALL UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.png" group-title="WORLD SPORTS",SKYSPORTS FOOTBALL UK
 https://dx3.gcdn.co/SKYSPORTSFOOTBALLHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS PL UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="WORLD SPORTS",SKYSPORTS PL UK
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/3911b3c7972b46fc90785734fa392df8/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS ARENA UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-arena-uk.png" group-title="WORLD SPORTS",SKYSPORTS ARENA UK
 https://dx3.gcdn.co/SKYSPORTSARENAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS ACTION UK
-https://digitalxpress.gcdn.co/live1/skyaction/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS Main Event UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png" group-title="WORLD SPORTS",SKYSPORTS Main Event UK
 https://digitalxpress.gcdn.co/live1/skymainevent/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SKYSPORTS GOLF UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-golf-uk.png" group-title="WORLD SPORTS",SKYSPORTS GOLF UK
 https://digitalxpress.gcdn.co/live1/skygolf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="WORLD SPORTS",bt sport1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="WORLD SPORTS",bt sport2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="WORLD SPORTS",bt sport3
 http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bt sport4
-http://tv4all.cyou:80/3030498113/0405515466/29193
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",SP-ESPN
-http://digitalxpress.gcdn.co/live1/SP-ESPN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="WORLD SPORTS",bein1
 http://163.172.39.42:8080/live/Maxxlq/Maxxlq/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="WORLD SPORTS",bein2
 http://163.172.39.42:8080/live/Maxxlq/Maxxlq/14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="WORLD SPORTS",bein3
 http://163.172.39.42:8080/live/Maxxlq/Maxxlq/15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="WORLD SPORTS",bein4
 http://163.172.39.42:8080/live/Maxxlq/Maxxlq/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="WORLD SPORTS",bein5
 https://stream.taghtia.com/http://de1.thefitnesshints.com/live/c5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="WORLD SPORTS",bein6
 http://163.172.39.42:8080/live/Maxxlq/Maxxlq/17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/ETJaTka.png" group-title="WORLD SPORTS",bein7
 http://148.251.23.179:80/bhd7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/PubAzEY.png" group-title="WORLD SPORTS",bein8
 http://148.251.23.179:80/bhd8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/zVEHDcb.png" group-title="WORLD SPORTS",bein9
 http://148.251.23.179:80/bhd9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://i.imgur.com/kJ4qHpd.png" group-title="WORLD SPORTS",bein10
 http://148.251.23.179:80/bhd10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein11
-http://148.251.23.179:80/bhd11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",bein14
-http://goiptv.co:8080/kennythetiger244/n6wfNmBlQA/6161
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",wwe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="WORLD SPORTS",wwe
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",boxnationuk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/box_nation_uk.png" group-title="WORLD SPORTS",boxnationuk
 http://digitalxpress2.gcdn.co/live1/boxnationuk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",UFC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ufc-tv-rossiya-us-ru.png" group-title="WORLD SPORTS",UFC
 http://dx4.gcdn.co/UK329/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",espn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png" group-title="WORLD SPORTS",espn
 http://digitalxpress2.gcdn.co/live1/espn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",espn2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png" group-title="WORLD SPORTS",espn2
 http://digitalxpress2.gcdn.co/live1/espn2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",cbssn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbs-sports-network-us.png" group-title="WORLD SPORTS",cbssn
 http://digitalxpress2.gcdn.co/live1/cbssn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",foxsports1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="WORLD SPORTS",foxsports1
 http://digitalxpress2.gcdn.co/live1/foxsports1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",foxsports2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png" group-title="WORLD SPORTS",foxsports2
 http://digitalxpress2.gcdn.co/live1/foxsports2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",nbcsports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="WORLD SPORTS",nbcsports
 http://digitalxpress2.gcdn.co/live1/nbcsports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",jtennis
-http://digitalxpress2.gcdn.co/live1/jtennis/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",jgolf
-http://digitalxpress2.gcdn.co/live1/jgolf/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",nbatv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="WORLD SPORTS",nbatv
 http://digitalxpress2.gcdn.co/live1/nbatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_1_ca.png" group-title="WORLD SPORTS",tsn1
 http://digitalxpress2.gcdn.co/live1/tsn11/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_2_ca.png" group-title="WORLD SPORTS",tsn2
 http://digitalxpress2.gcdn.co/live1/tsn22/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_3_ca.png" group-title="WORLD SPORTS",tsn3
 http://digitalxpress2.gcdn.co/live1/tsn33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_4_ca.png" group-title="WORLD SPORTS",tsn4
 http://digitalxpress2.gcdn.co/live1/tsn44/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tsn5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn_5_ca.png" group-title="WORLD SPORTS",tsn5
 http://digitalxpress2.gcdn.co/live1/tsn55/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",mavtv
-http://digitalxpress2.gcdn.co/live1/mavtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",eurosport1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="WORLD SPORTS",eurosport1
 http://digitalxpress2.gcdn.co/live1/eurosport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",eurosport2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="WORLD SPORTS",eurosport2
 http://digitalxpress2.gcdn.co/live1/eurosport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="WORLD SPORTS",sporttv1
 http://digitalxpress2.gcdn.co/live1/sporttv1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_2.png" group-title="WORLD SPORTS",sporttv2
 http://digitalxpress2.gcdn.co/live1/sporttv2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_3.png" group-title="WORLD SPORTS",sporttv3
 http://digitalxpress2.gcdn.co/live1/sporttv3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_4.png" group-title="WORLD SPORTS",sporttv4
 http://digitalxpress2.gcdn.co/live1/sporttv4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sporttv5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_5.png" group-title="WORLD SPORTS",sporttv5
 http://digitalxpress2.gcdn.co/live1/sporttv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",sportingtv
-http://digitalxpress2.gcdn.co/live1/sportingtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsat
-http://digitalxpress.gcdn.co/live1/polsat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsat2
-http://digitalxpress.gcdn.co/live1/polsat2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatplay
-http://digitalxpress.gcdn.co/live1/polsatplay/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatnews
-http://digitalxpress.gcdn.co/live1/polsatnews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatcafe
-http://digitalxpress.gcdn.co/live1/polsatcafe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsport
-http://digitalxpress.gcdn.co/live1/polsatsport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportextra
-http://digitalxpress.gcdn.co/live1/polsatsportextra/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",tvpsport
-http://digitalxpress.gcdn.co/live1/tvpsport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",canal+sport2
-http://digitalxpress.gcdn.co/live1/canal+sport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium1
-http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium2
-http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Premier HD1
 https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Premier HD2
@@ -384,153 +344,44 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",TRUE NBA
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",setanta Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta_sports_eurasia.png" group-title="WORLD SPORTS",setanta Sport
 http://188.93.95.67:80/setanta/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",setanta Sport plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-ukraine-ie-ua.png" group-title="WORLD SPORTS",setanta Sport plus
 http://188.93.95.67:80/setantaplus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png" group-title="WORLD SPORTS",Матч! Футбол 1 HD
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_2.png" group-title="WORLD SPORTS",Матч! Футбол 2 HD
 https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Матч! Футбол 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png" group-title="WORLD SPORTS",Матч! Футбол 3 HD
 https://chostv.mobie.in/choos/sports/matchqy3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 1 Ukraine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_1.png" group-title="WORLD SPORTS",Football 1 Ukraine
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Football 2 Ukraine
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/ff/futbol_ua_2.png" group-title="WORLD SPORTS",Football 2 Ukraine
 https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 2
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="WORLD SPORTS",ASTRO SUPPERSPORT 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Digi Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="WORLD SPORTS",Digi Sport 1
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/playlit.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Digi Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport2_ro.png" group-title="WORLD SPORTS",Digi Sport 2
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlit.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Digi Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="WORLD SPORTS",Digi Sport 3
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Digi Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport4_ro.png" group-title="WORLD SPORTS",Digi Sport 4
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Arena Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="WORLD SPORTS",Arena Sport 1
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=147&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Arena Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-2-rs.png" group-title="WORLD SPORTS",Arena Sport 2
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=184&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Arena Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-3-rs.png" group-title="WORLD SPORTS",Arena Sport 3
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=185&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Arena Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-4-rs.png" group-title="WORLD SPORTS",Arena Sport 4
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=186&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",Arena Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-5-rs.png" group-title="WORLD SPORTS",Arena Sport 5
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=187&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
-
-
-
-
-
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV + FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV + FHD
-http://tv4all.cyou:80/3030498113/0405515466/824
-#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="SPORT TV +" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%20+.png" group-title="WORLD SPORTS 2",SPORT TV +
-http://tv4all.cyou:80/3030498113/0405515466/825
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 FHD
-http://tv4all.cyou:80/3030498113/0405515466/826
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 FHD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 FHD Backup 1
-http://tv4all.cyou:80/3030498113/0405515466/13401
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 1 HD
-http://tv4all.cyou:80/3030498113/0405515466/827
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1 HD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 1 HD Backup 1
-http://tv4all.cyou:80/3030498113/0405515466/13402
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="SPORT TV 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%201.png" group-title="WORLD SPORTS 2",SPORT TV 1
-http://tv4all.cyou:80/3030498113/0405515466/828
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 FHD
-http://tv4all.cyou:80/3030498113/0405515466/829
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 FHD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 FHD Backup 1
-http://tv4all.cyou:80/3030498113/0405515466/13403
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 2 HD
-http://tv4all.cyou:80/3030498113/0405515466/830
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2 HD Backup 1" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 2 HD Backup 1
-http://tv4all.cyou:80/3030498113/0405515466/13404
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%202.png" group-title="WORLD SPORTS 2",SPORT TV 2
-http://tv4all.cyou:80/3030498113/0405515466/831
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 3 FHD
-http://tv4all.cyou:80/3030498113/0405515466/832
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 3 HD
-http://tv4all.cyou:80/3030498113/0405515466/833
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%203.png" group-title="WORLD SPORTS 2",SPORT TV 3
-http://tv4all.cyou:80/3030498113/0405515466/834
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 4 FHD
-http://tv4all.cyou:80/3030498113/0405515466/835
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 4 HD
-http://tv4all.cyou:80/3030498113/0405515466/836
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%204.png" group-title="WORLD SPORTS 2",SPORT TV 4
-http://tv4all.cyou:80/3030498113/0405515466/837
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 FHD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205%20FHD.png" group-title="WORLD SPORTS 2",SPORT TV 5 FHD
-http://tv4all.cyou:80/3030498113/0405515466/838
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 HD" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205%20HD.png" group-title="WORLD SPORTS 2",SPORT TV 5 HD
-http://tv4all.cyou:80/3030498113/0405515466/839
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="http://www.logos.net4you.xyz/Sport%20TV%205.png" group-title="WORLD SPORTS 2",SPORT TV 5
-http://tv4all.cyou:80/3030498113/0405515466/840
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA FHD" tvg-logo="https://i.imgur.com/mQH8oYd.png" group-title="WORLD SPORTS 2",SPORT TV NBA FHD
-http://tv4all.cyou:80/3030498113/0405515466/841
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1 FHD
-http://tv4all.cyou:80/3030498113/0405515466/842
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1 HD
-http://tv4all.cyou:80/3030498113/0405515466/843
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS1.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 1
-http://tv4all.cyou:80/3030498113/0405515466/844
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2 FHD
-http://tv4all.cyou:80/3030498113/0405515466/845
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2 HD
-http://tv4all.cyou:80/3030498113/0405515466/846
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS2.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 2
-http://tv4all.cyou:80/3030498113/0405515466/847
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3 FHD
-http://tv4all.cyou:80/3030498113/0405515466/848
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3 HD
-http://tv4all.cyou:80/3030498113/0405515466/849
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS3.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 3
-http://tv4all.cyou:80/3030498113/0405515466/850
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4 FHD
-http://tv4all.cyou:80/3030498113/0405515466/851
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4 HD
-http://tv4all.cyou:80/3030498113/0405515466/852
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS4.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 4
-http://tv4all.cyou:80/3030498113/0405515466/853
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5 FHD
-http://tv4all.cyou:80/3030498113/0405515466/854
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5 HD
-http://tv4all.cyou:80/3030498113/0405515466/855
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS5.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 5
-http://tv4all.cyou:80/3030498113/0405515466/856
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6 FHD
-http://tv4all.cyou:80/3030498113/0405515466/857
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6 HD
-http://tv4all.cyou:80/3030498113/0405515466/858
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6" tvg-logo="http://www.logos.net4you.xyz/ELEVENSPORTS6.png" group-title="WORLD SPORTS 2",ELEVEN SPORTS 6
-http://tv4all.cyou:80/3030498113/0405515466/859
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 1: Low
-http://tv4all.cyou:80/3030498113/0405515466/12519
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 2: Low
-http://tv4all.cyou:80/3030498113/0405515466/12520
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 3: Low
-http://tv4all.cyou:80/3030498113/0405515466/12521
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 4: Low
-http://tv4all.cyou:80/3030498113/0405515466/12522
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5: Low" tvg-logo="" group-title="WORLD SPORTS 2",Sport TV 5: Low
-http://tv4all.cyou:80/3030498113/0405515466/12523
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 1:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 1:Low
-http://tv4all.cyou:80/3030498113/0405515466/12524
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 2:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 2:Low
-http://tv4all.cyou:80/3030498113/0405515466/12525
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 3:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 3:Low
-http://tv4all.cyou:80/3030498113/0405515466/12526
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 4:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 4:Low
-http://tv4all.cyou:80/3030498113/0405515466/12527
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 5:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 5:Low
-http://tv4all.cyou:80/3030498113/0405515466/12528
-#EXTINF:-1 tvg-id="" tvg-name="Eleven Sport 6:Low" tvg-logo="" group-title="WORLD SPORTS 2",Eleven Sport 6:Low
-http://tv4all.cyou:80/3030498113/0405515466/12529
-
-
 
 
 
@@ -1915,10 +1766,12 @@ http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@doo
 
 
 
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="jamal el7ream",EP01مسلسل جمال الحريم
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/lvEaARX.png" group-title="jamal el7ream",EP01مسلسل جمال الحريم
 https://ostream2.panet.co.il/vod/668/668047/668047.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="jamal el7ream",EP02مسلسل جمال الحريم
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/lvEaARX.png" group-title="jamal el7ream",EP02مسلسل جمال الحريم
 https://ostream2.panet.co.il/vod/668/668543/668543.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/lvEaARX.png" group-title="jamal el7ream",EP03مسلسل جمال الحريم
+https://ostream2.panet.co.il/vod/668/668909/668909.mp4/playlist.m3u8
 
 
 
@@ -1926,85 +1779,85 @@ https://ostream2.panet.co.il/vod/668/668543/668543.mp4/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP01مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP01مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E01.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP02مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP02مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E02.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP03مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP03مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E03.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP04مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP04مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E04.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP05مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP05مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E05.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP06مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP06مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E06.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP07مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP07مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E07.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP08مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP08مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E08.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP09مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP09مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E09.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP10مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP10مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E10.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP11مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP11مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E11.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP12مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP12مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E12.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP13مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP13مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E13.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP14مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP14مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E14.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP15مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP15مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E15.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP16مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP16مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E16.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP17مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP17مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E17.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP18مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP18مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E18.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP19مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP19مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E19.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP20مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP20مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E20.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP21مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP21مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E21.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP22مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP22مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E22.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP23مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP23مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E23.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP24مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP24مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E24.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP25مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP25مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E25.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP26مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP26مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E26.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP27مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP27مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E27.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP28مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP28مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S01E28.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP29مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP29مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E01.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP30مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP30مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E02.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP31مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP31مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E03.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP32مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP32مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E04.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP33مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP33مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E05.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP34مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP34مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E06.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP35مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP35مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E07.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP36مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP36مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E08.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP37مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP37مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E09.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP38مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP38مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E10.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP39مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP39مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E11.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP40مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP40مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E12.mp4
-#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="" group-title="AltabeebAlmo3jeza",EP41مسلسل الطبيب المعجزة
+#EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP41مسلسل الطبيب المعجزة
 http://streamer2mytv.com:81/Emc3/TurkishTvSeries/AltabeebAlmo3jeza-Tr-S02E13.mp4
