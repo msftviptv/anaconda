@@ -211,8 +211,8 @@ http://live.btv2020.com:1935/live/btv/playlist.m3u8
 http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",An-Najah Nbc
-http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Arabic Sport",Nile Sport
+http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png" group-title="Arabic Sport",on time Sport 1
 https://streamer1.furrera.ps/ONSportHD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lh3.googleusercontent.com/-1O15g1x7Mxo/X0B6G8LEv0I/AAAAAAAAAWk/OqYCkIdPzXoP8wmndfW8C4lhlV8Z-RFbQCLcBGAsYHQ/h120-e90/%25D8%25A7%25D9%2588%25D9%2586-2.jpg" group-title="Arabic Sport",on time Sport 2
