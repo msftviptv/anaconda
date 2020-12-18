@@ -221,10 +221,14 @@ http://posterboot.xyz:8080/live/streeem/streeem/43.m3u8
 
 
 #EXTINF:-1 tvg-id="KSA Sports1" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports1 
-http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2530
+https://streamer1.furrera.ps/KSASPORTS1HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="KSA Sports2" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports2
-http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/2531
+https://streamer1.furrera.ps/KSASPORTS2HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="KSA Sports3" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports3
+https://streamer1.furrera.ps/KSASPORTS3HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="KSA Sports4" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U9loQlx.png" group-title="Arabic Sport",KSA Sports4
+https://streamer1.furrera.ps/KSASPORTS4HD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Al Kass One" tvg-name="Al Kass One" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Arabic Sport",Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1?DVR
