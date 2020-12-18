@@ -7,17 +7,16 @@ https://streamer1.furrera.ps/felesportWeb/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 2
 http://vstream3.hadara.ps:8081/hrHD1_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 3" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 3
-https://e1.taghtia.com/http://de1.thefitnesshints.com/live/ch01/index.m3u8
+https://streamer1.furrera.ps/FajerTV1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 4
-https://e1.taghtia.com/http://de1.thefitnesshints.com/live/c4/index.m3u8
+https://streamer1.furrera.ps/FajerTV2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 5" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 5
-http://185.180.223.89:25461/wokam99035@pastmao.com/wokam99035@pastmao.com/56|User-Agent=WSS_User_Agent
+https://streamer1.furrera.ps/FajerTV3/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 6" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 6
-https://e1.taghtia.com/http://de1.thefitnesshints.com/live/ch02/index.m3u8
+https://streamer1.furrera.ps/FajerTV4/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 7" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 7
-https://e1.taghtia.com/http://de-62.thefitnesshints.com/live/multi1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE 8" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 8
-https://e1.taghtia.com/&ahsa-news.com/https://m10.cdn4kora.com/live/ch4/index.m3u8
+https://streamer1.furrera.ps/FajerTV5/index.m3u8?token=test
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN Sports low",BEIN SPORT LOW 1
 http://best-live-iptv.xyz:2082/BEST-LIVE5577/BEST-LIVE5577/20
