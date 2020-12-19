@@ -19,7 +19,7 @@ https://streamer1.furrera.ps/FajerTV5/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN Sports low",BEIN SPORT LOW 1
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/20
+http://173.249.4.94:8081/bein1/bein1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="beIN Sports low",BEIN SPORT LOW 2
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/21
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="beIN Sports low",BEIN SPORT LOW 3
