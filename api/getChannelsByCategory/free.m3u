@@ -16,6 +16,10 @@ https://streamer1.furrera.ps/FajerTV3/index.m3u8?token=test
 https://streamer1.furrera.ps/FajerTV4/index.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 7" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 7
 https://streamer1.furrera.ps/FajerTV5/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 8" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 8
+http://halowtv.online:8080/live/HalowTV/FSyzHfEhvb/137.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN Sports low",BEIN SPORT LOW 1
