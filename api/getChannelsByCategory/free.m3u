@@ -18,7 +18,7 @@ http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_6HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 7" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 7
 http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_7HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 8" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 8
-http://62.112.9.63:88/Brazzers/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_8HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 9" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 9
 http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_9HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 10" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 10
