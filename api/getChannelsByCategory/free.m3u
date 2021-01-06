@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZhebN1.png" group-title="تحميل التطبيق" ,MSFtv  تحميل تطبيق 
 https://dl.dropbox.com/s/v954jaba9o7g25e/88d9f36020fa27b76f712094591dbbfc.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="monamed said 1" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES", Mohamed sqid
+#EXTINF:-1 tvg-id="" tvg-name="Live 1" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES", Live 1
 http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 2
 http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_2HD-ar
