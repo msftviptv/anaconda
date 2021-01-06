@@ -1,42 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZhebN1.png",MSFtv  تحميل تطبيق 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZhebN1.png" group-title="تحميل التطبيق" ,MSFtv  تحميل تطبيق 
 https://dl.dropbox.com/s/v954jaba9o7g25e/88d9f36020fa27b76f712094591dbbfc.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="monamed said 1" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES", Mohamed sqid
-https://streamer1.furrera.ps/felesportWeb/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 2
-https://streamer1.furrera.ps/BeinSport02/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_2HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 3" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 3
-https://streamer1.furrera.ps/BeinSport03/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_3HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 4
-http://vstream3.hadara.ps:8081/hrHD1_web/web/chunks.m3u8
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_4HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 5" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 5
-https://streamer1.furrera.ps/FajerTV1/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_5HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 6" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 6
-https://streamer1.furrera.ps/FajerTV2/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_6HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 7" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 7
-https://streamer1.furrera.ps/FajerTV3/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_7HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 8" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 8
-https://streamer1.furrera.ps/FajerTV4/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_8HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 9" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 9
-https://streamer1.furrera.ps/FajerTV5/index.m3u8?token=test
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_9HD-ar
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 10" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 10
-http://halowtv.online:8080/live/HalowTV/FSyzHfEhvb/137.m3u8
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_10HD-ar
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN Sports low",BEIN SPORT LOW 1
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/20
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="beIN Sports low",BEIN SPORT LOW 2
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_2HD-ar
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/21
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="beIN Sports low",BEIN SPORT LOW 3
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_3HD-ar
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/22
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 4" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="beIN Sports low",BEIN SPORT LOW 4
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_4HD-ar
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/23
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 5" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="beIN Sports low",BEIN SPORT LOW 5
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_5HD-ar
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/24
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 6" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="beIN Sports low",BEIN SPORT LOW 6
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_6HD-ar
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/25
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="Bein sport SD1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN SPORTS SD",Bein sport SD1
@@ -81,91 +82,232 @@ http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APP2DTstealMyuserplease/55f23
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 HD" tvg-logo="https://i.imgur.com/kJ4qHpd.png" group-title="Bein - SPORTS HD°",BEIN SPORTS 10 HD
 http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APP2DTstealMyuserplease/55f23g854f21d32/1451
 
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN SPORTS H265",BEIN SPORTS 1
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="beIN SPORTS H265",BEIN SPORTS 2
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/2.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="beIN SPORTS H265",BEIN SPORTS 3
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/3.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="beIN SPORTS H265",BEIN SPORTS 4
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/4.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="beIN SPORTS H265",BEIN SPORTS 5
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/5.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="beIN SPORTS H265",BEIN SPORTS 6
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/6.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7" tvg-logo="https://i.imgur.com/ETJaTka.png" group-title="beIN SPORTS H265",BEIN SPORTS 7
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/7.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 8" tvg-logo="https://i.imgur.com/PubAzEY.png" group-title="beIN SPORTS H265",BEIN SPORTS 8
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/8.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 9" tvg-logo="https://i.imgur.com/zVEHDcb.png" group-title="beIN SPORTS H265",BEIN SPORTS 9
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/9.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 10" tvg-logo="https://i.imgur.com/kJ4qHpd.png" group-title="beIN SPORTS H265",BEIN SPORTS 10
-http://apeeegosoft-live.ml:88/live/apeeegosoft/ITwHzMA5gE/10.m3u8
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="beIN1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN SPORTS FHD",beIN1
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/12.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN2" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="beIN SPORTS FHD",beIN2
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/10.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN3" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="beIN SPORTS FHD",beIN3
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/9.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN4" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="beIN SPORTS FHD",beIN4
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/8.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN5" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="beIN SPORTS FHD",beIN5
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/7.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN6" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="beIN SPORTS FHD",beIN6
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/6.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN7" tvg-logo="https://i.imgur.com/ETJaTka.png" group-title="beIN SPORTS FHD",beIN7
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/5.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN8" tvg-logo="https://i.imgur.com/PubAzEY.png" group-title="beIN SPORTS FHD",beIN8
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/4.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN9" tvg-logo="https://i.imgur.com/zVEHDcb.png" group-title="beIN SPORTS FHD",beIN9
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/3.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN10" tvg-logo="https://i.imgur.com/kJ4qHpd.png" group-title="beIN SPORTS FHD",beIN10
-http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/11.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 1
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1436.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 2" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 2
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1437.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 3" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 3
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1438.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 4" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 4
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1439.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 5" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 5
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1440.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 6" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 6
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1441.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 7" tvg-logo="https://i.imgur.com/ETJaTka.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 7
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1442.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 8" tvg-logo="https://i.imgur.com/PubAzEY.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 8
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1443.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 9" tvg-logo="https://i.imgur.com/zVEHDcb.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 9
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1444.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT: AR: BEIN Sports 10" tvg-logo="https://i.imgur.com/kJ4qHpd.png" group-title="beIN SPORTS FHD",SPORT: AR: BEIN Sports 10
-http://local-iptv.myddns.me:8000/live/48212021AM4884820/47212021AM4784720/1445.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="BEIN SPORTS HD",beIN Sport 1 HD
-http://135.181.31.32/hls/bein1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="BEIN SPORTS HD",beIN Sport 2 HD
-http://135.181.31.32/hls/bein2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="BEIN SPORTS HD",beIN Sport 3 HD
-http://135.181.31.32/hls/bein3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="BEIN SPORTS HD",beIN Sport 4 HD
-http://135.181.31.32/hls/bein4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="https://i.imgur.com/j6MlTDP.png" group-title="BEIN SPORTS HD",beIN Sport 5 HD
-http://135.181.31.32/hls/bein5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="https://i.imgur.com/DhXhj29.png" group-title="BEIN SPORTS HD",beIN Sport 6 HD
-http://135.181.31.32/hls/bein6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="https://i.imgur.com/ETJaTka.png" group-title="BEIN SPORTS HD",beIN Sport 7 HD
-http://135.181.31.32/hls/bein7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 HD" tvg-logo="https://i.imgur.com/PubAzEY.png" group-title="BEIN SPORTS HD",beIN Sport 8 HD
-http://135.181.31.32/hls/bein8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 HD" tvg-logo="https://i.imgur.com/zVEHDcb.png" group-title="BEIN SPORTS HD",beIN Sport 9 HD
-http://135.181.31.32/hls/bein9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsport1n.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 1 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein1hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-2-mono-white_Loogo.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 2 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein2hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-3-mono-white_logo.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 3 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein3hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 4 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein4hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 5 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein5hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 6 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein6hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beINSPORTS-7HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 7 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein7hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8HD-HEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 8 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein8hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD-HEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 9 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein9hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS10-HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 10 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein10hd-ar
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-1_LOGO.png" group-title="beIN SPORTS NEW",beIN Sports 1 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-2-mono-white_Loogo.png" group-title="beIN SPORTS NEW",beIN SPORTS 2 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_2HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-3-mono-white_logo.png" group-title="beIN SPORTS NEW",beIN SPORTS 3 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_3HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-4HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 4 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_4HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 5 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_5HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 6 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_6HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beINSPORTS-7HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 7 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_7HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 8 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_8HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 9 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_9HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 HD HEVC" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS10-HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 10 HD HEVC
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_10HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NEWS HD" tvg-logo="http://files.rednetcontent.com/chlogo/Bein_sport_news_arabia_Logo.png" group-title="beIN SPORTS NEW",beIN SPORTS NEWS HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/beinsportsnewshd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsport1n.png" group-title="beIN SPORTS NEW",beIN SPORTS 1 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein1hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-2-mono-white_Loogo.png" group-title="beIN SPORTS NEW",beIN SPORTS 2 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein2hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-3-mono-white_logo.png" group-title="beIN SPORTS NEW",beIN SPORTS 3 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein3hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS NEW",beIN SPORTS 4 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein4hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 5 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein5hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 6 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein6hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beINSPORTS-7HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 7 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein7hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 8 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein8hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD-HEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 9 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein9hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS10-HDHEVC.png" group-title="beIN SPORTS NEW",beIN SPORTS 10 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein10hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 12 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-12HD.png" group-title="beIN SPORTS NEW",beIN SPORTS 12 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein12hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 11 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-11-HD.png" group-title="beIN SPORTS NEW",beIN SPORTS 11 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein11hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="beIN SPORTS NEW",beIN Sports 1 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein1FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="beIN SPORTS NEW",beIN Sports 2 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein2FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="beIN SPORTS NEW",beIN Sports 3 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein3FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-4HD-HEVC.png" group-title="beIN SPORTS NEW",beIN Sports 4 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein4FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HD.png" group-title="beIN SPORTS NEW",beIN Sports 5 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein5FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HD.png" group-title="beIN SPORTS NEW",beIN Sports 6 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein6FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS7-HD.png" group-title="beIN SPORTS NEW",beIN Sports 7 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein7FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8-HD.png" group-title="beIN SPORTS NEW",beIN Sports 8 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein8FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD.png" group-title="beIN SPORTS NEW",beIN Sports 9 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein9FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-10-HD.png" group-title="beIN SPORTS NEW",beIN Sports 10 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/bein10FHD-ar
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsport1n.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 1 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein1FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-2-mono-white_Loogo.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 2 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein2FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/bein-sports-3-mono-white_logo.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 3 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein3FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beinsportgeneral.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 4 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein4FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS5-HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 5 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein5FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS-6HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 6 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein6FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beINSPORTS-7HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 7 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein7FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS8HD-HEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 8 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein8FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS9-HD-HEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 9 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein9FHD-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1080 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-SPORTS10-HDHEVC.png" group-title="beIN SPORTS 1080 1080",beIN SPORTS 1080 10 HD
+http://185.180.14.120:6791/watchlive.php?s=1&id=EX/bein10FHD-ar
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="RED Cinema" tvg-logo="http://files.rednetcontent.com/newvod/redcinema-icon.png" group-title="RED TV",RED Cinema
+http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redcinema-ar
+#EXTINF:-1 tvg-id="" tvg-name="RED Kids 1" tvg-logo="http://files.rednetcontent.com/newvod/red_kids.png" group-title="RED TV",RED Kids 1
+http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redkids-ar
+#EXTINF:-1 tvg-id="" tvg-name="RED Action 1" tvg-logo="http://files.rednetcontent.com/newvod/redaction-icon.png" group-title="RED TV",RED Action 1
+http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redaction-ar
+#EXTINF:-1 tvg-id="" tvg-name="RED Comedy 1" tvg-logo="http://files.rednetcontent.com/newvod/redcomedy-icon.png" group-title="RED TV",RED Comedy 1
+http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redcomedy-ar
+#EXTINF:-1 tvg-id="" tvg-name="RED Classic" tvg-logo="http://files.rednetcontent.com/newvod/redclassic-icon.png" group-title="RED TV",RED Classic
+http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redclassic-ar
+#EXTINF:-1 tvg-id="" tvg-name="RED Planet" tvg-logo="http://files.rednetcontent.com/newvod/redplanet-icon.png" group-title="RED TV",RED Planet
+http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/redplanet-ar
+#EXTINF:-1 tvg-id="" tvg-name="RED Drama" tvg-logo="http://files.rednetcontent.com/newvod/red_drama.png" group-title="RED TV",RED Drama
+http://ch.gotvred.com:6791/watchlive.php?s=11&id=VOD/reddrama-ar
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 1
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv1-por
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 2
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv2-por
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 3
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv3-por
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 5
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv5-por
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="http://files.rednetcontent.com/chlogo/sport_tv.png" group-title="Portugal Sport",Sport TV 4
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttv4-por
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 1 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports1hd-por
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 2 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports2hd-por
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 3
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports3hd-por
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 4
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports4hd-por
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 5" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 5
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports5hd-por
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",Eleven Sports 6
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/elevensports6hd-por
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Portugal Sport",SPORT TV +
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL/sporttvplus-por
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 1 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Sport_TV_1_HD-por
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 2 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Sport_TV_2_HD-por
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/Portuguese/sport-tv-institucional.png" group-title="Portugal Sport",Sport TV 3 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Sport_TV_3_HD-por
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven1.png" group-title="Portugal Sport",Eleven Sports 1 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Eleven_Sports_1_HD-por
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo2/polish/eleven2.png" group-title="Portugal Sport",Eleven Sports 2 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=NL-N/Eleven_Sports_2_HD-por
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinsport1.png" group-title="France Sport",beIN SPORTS 1 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BEINSPORT_1_FR-fr
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",beIN SPORTS 2 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BEINSPORT_2_FR-fr
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",beIN SPORTS 3 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BEINSPORT_3_FR-fr
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Sport" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",Canal+ Sport
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/CANAL_PLUS_SPORT-fr
+#EXTINF:-1 tvg-id="" tvg-name="FOOT+" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",FOOT+
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_FOOT_plus_-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 1 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT1_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 2 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT2_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 3 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT3_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 4 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT4_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 5 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT5_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 6 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT6_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 7 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT7_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 8 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT8_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 9 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT9_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 10 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT10_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 11 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 11 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT11_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 12 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 12 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT12_HD-fr
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 13 HD" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="France Sport",RMC Sport 13 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/FR_RMC_SPORT13_HD-fr
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Time Sports" tvg-logo="http://files.rednetcontent.com/chlogo/default.png" group-title="Arabic Sport",Time Sports
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR-N/TIME_SPORTS_HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 2 FHD" tvg-logo="http://files.rednetcontent.com/chlogo/ON-Sport-TV.png" group-title="Arabic Sport",ON Sport 2 FHD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR-N/ON_Sport_2_HD-ar
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport TV" tvg-logo="http://files.rednetcontent.com/chlogo/ON-Sport-TV.png" group-title="Arabic Sport",ON Sport TV
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/onsportv-ar
+#EXTINF:-1 tvg-id="" tvg-name="Alahly Club TV" tvg-logo="http://files.rednetcontent.com/chlogo/Alahly-Club-TV.png" group-title="Arabic Sport",Alahly Club TV
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/alahlyclubtv-ar
+#EXTINF:-1 tvg-id="" tvg-name="zamalek sports" tvg-logo="http://files.rednetcontent.com/chlogo/Alahly-Club-TV.png" group-title="Arabic Sport",zamalek sports
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TN/zamaleksports-ar
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="Arabic Sport",KSA SPORTS 1 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR/ksasports1hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="Arabic Sport",KSA SPORTS 2 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR/ksasports2hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="Arabic Sport",KSA SPORTS 3 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR/ksasports3hd-ar
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/KSA-SPORTS-1.png" group-title="Arabic Sport",KSA SPORTS 4 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=TR/ksasports4hd-ar
 #EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Arabic Sport",Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 
@@ -920,32 +1062,35 @@ http://92.222.103.14:8005/stream/1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-country="AR" tvg-url="" group-title="قنوات دينية",القرآن الكريم راديو٢
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8
 
-#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MBC 1 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/Mbc1.png" group-title="MBC",MBC 1 4K
-http://digitalxpress.gcdn.co/MBC1_HD/index.m3u8
-#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC2.png" group-title="MBC",MBC 2 4K
-http://digitalxpress.gcdn.co/live1/MBC2_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC3.png" group-title="MBC",MBC 3 4K
-http://digitalxpress.gcdn.co/live1/MBC3_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mbc4.sa" tvg-name="MBC 4 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBC4.png" group-title="MBC",MBC 4 4K
-http://digitalxpress.gcdn.co/live1/MBC4_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC Max 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCMax.png" group-title="MBC",MBC Max 4K
-http://digitalxpress.gcdn.co/live1/MBCMAX/index.m3u8
-#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCAction.png" group-title="MBC",MBC Action 4K
-http://digitalxpress.gcdn.co/live1/MBC_ACTION_HD/index.m3u8
-#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCBollywoodTV.png" group-title="MBC",MBC Bollywood 4K
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="MBC Drama 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCDrama.png" group-title="MBC",MBC Drama 4K
-http://digitalxpress.gcdn.co/live1/mbcdrama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+ 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusDrama.png" group-title="MBC",MBC Drama+ 4K
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Variety 4K" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/My-HD/MBCPlusVariety.png" group-title="MBC",MBC Variety 4K
-http://digitalxpress.gcdn.co/live1/mbcvarietyhd-AR/index.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="MBC",MBC Masr 1
-http://digitalxpress.gcdn.co/live1/mbcmasr/index.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="MBC",MBC Masr 2
-http://digitalxpress.gcdn.co/live1/RTMP-mbcmasr2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" tvg-country="AE" tvg-url="" group-title="MBC",MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MBC 1" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="MBC",MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="MBC",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 tvg-id="mbc3.ae" tvg-name="MBC 3" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="MBC",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="mbc4.sa" tvg-name="MBC 4" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="MBC",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="mbc4.sa" tvg-name="MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="MBC",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC Max" tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="MBC",MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="MBC",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="MBC",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="mbcdrama.ae" tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="MBC",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="MBC",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Persia" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" tvg-country="AE" tvg-url="" group-title="MBC",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-language="Persian" tvg-logo="https://i.imgur.com/huebvDt.png" tvg-country="AE" tvg-url="" group-title="MBC",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+
 #EXTINF:-1 tvg-id="Sky News Arabic ARB" tvg-name="Sky News Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kF7TvcH.png" tvg-country="UK" tvg-url="" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al Alam
@@ -1021,247 +1166,135 @@ http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 1" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 1
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/79
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 2" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 2
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/80
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 3" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 3
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/81
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 4" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 4
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/87
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 5" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 5
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/88
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 6" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 6
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/89
-#EXTINF:-1 tvg-id="" tvg-name="SHOOF MAX 7" tvg-logo="https://shoofmax.azureedge.net/img/general/logo-nav.png" group-title="SHOOF MAX",SHOOF MAX 7
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/108
 #EXTINF:-1 tvg-id="" tvg-name="Netflix action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690860.png" group-title="NETFLIX",Netflix action
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/67
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/281
 #EXTINF:-1 tvg-id="" tvg-name="Netflix horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690861.png" group-title="NETFLIX",Netflix horror
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/68
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/282
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690864.png" group-title="NETFLIX",Netflix Comedy
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/69
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/283
 #EXTINF:-1 tvg-id="" tvg-name="Netflix  Drama" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1690863.png" group-title="NETFLIX",Netflix  Drama
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/70
-#EXTINF:-1 tvg-id="" tvg-name="beout Arabia" tvg-logo="https://www14.0zz0.com/2020/10/27/17/376290328.png" group-title="beout Aflam",beout Arabia
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/75
-#EXTINF:-1 tvg-id="" tvg-name="beout cinema" tvg-logo="https://www11.0zz0.com/2020/10/27/17/673130049.png" group-title="beout Aflam",beout cinema
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/76
-#EXTINF:-1 tvg-id="" tvg-name="beout action" tvg-logo="https://www9.0zz0.com/2020/10/27/17/927600613.png" group-title="beout Aflam",beout action
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/77
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/284
+
 #EXTINF:-1 tvg-id="" tvg-name="Majestic Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251176.png" group-title="Majestic",Majestic Arabia
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/71
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251175.png" group-title="Majestic",Majestic Cinema
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/72
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/287
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251175.png" group-title="Majestic",Majestic MOVIES
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/285
 #EXTINF:-1 tvg-id="" tvg-name="Majestic horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2258783.png" group-title="Majestic",Majestic horror
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/73
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/286
 #EXTINF:-1 tvg-id="" tvg-name="Majestic Kids" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251177.png" group-title="Majestic",Majestic Kids
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/74
-#EXTINF:-1 tvg-id="" tvg-name="OXN Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2422613.png" group-title="OXN ",OXN Cinema
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/85
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Action" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4118066_ico.png" group-title="OXN ",Shahid Action
-http://sarhantv.myq-see.com:25461/sarhanapp/0000/160
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/288
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTC MOVIES" tvg-logo="" group-title="MAJESTIC",MAJESTC MOVIES
-http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/132
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="MAJESTIC",MAJESTIC HORROR
-http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/133
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="MAJESTIC",MAJESTIC ARABIC
-http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/134
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="MAJESTIC",MAJESTIC KIDS
-http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/135
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="NETFLIX",NETFLIX ACTION
-http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/136
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="NETFLIX",NETFLIX HORROR
-http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/137
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="NETFLIX",NETFLIX COMEDY
-http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/138
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="NETFLIX",NETFLIX DRAMA
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Osn Yahala" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",Osn Yahala
 http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Aloula" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",OSN Yahala Aloula
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA_1-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala CINEMA" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",OSN Yahala CINEMA
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA_CINEMA-ar
+#EXTINF:-1 tvg-id="" tvg-name="Osn Cinema 1" tvg-logo="http://files.rednetcontent.com/chlogo/osnCM1.png" group-title="OSN NEW",Osn Cinema 1
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_CINEMA_1-ar
+#EXTINF:-1 tvg-id="" tvg-name="Osn Cinema 2" tvg-logo="http://files.rednetcontent.com/chlogo/Osn-Cinema2.png" group-title="OSN NEW",Osn Cinema 2
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_CINEMA_2-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat 1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/musalsalat.png" group-title="OSN NEW",OSN Musalsalat 1
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MUSALSALAT_1-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat 2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/musalsalat.png" group-title="OSN NEW",OSN Musalsalat 2
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MUSALSALAT_2-ar
+#EXTINF:-1 tvg-id="" tvg-name="Osn Al Yawm" tvg-logo="http://files.rednetcontent.com/chlogo/osnYAW.png" group-title="OSN NEW",Osn Al Yawm
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_ALYAWM-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First HD" tvg-logo="http://files.rednetcontent.com/chlogo/OSN-Movie-FirstHD.png" group-title="OSN NEW",OSN Movies First HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_FIRST-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First +2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/OSN-Movie-FirstHD.png" group-title="OSN NEW",OSN Movies First +2 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_FIRST_2-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="http://files.rednetcontent.com/chlogo/osnmovies.png" group-title="OSN NEW",OSN Movies HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Action HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osnaction.png" group-title="OSN NEW",OSN Movies Action HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_ACTION-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Disney HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osndisney.png" group-title="OSN NEW",OSN Movies Disney HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_Disney-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osncentral.png" group-title="OSN NEW",OSN Comedy Central HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_COMEDY_CENTRAL-ar
+#EXTINF:-1 tvg-id="" tvg-name="Osn Nat Geo HD" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png" group-title="OSN NEW",Osn Nat Geo HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Wild HD" tvg-logo="http://files.rednetcontent.com/chlogo/natwild.png" group-title="OSN NEW",OSN Nat Geo Wild HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO_WILD-ar
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat People HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/NatGeoPeoplelogo-l.png" group-title="OSN NEW",OSN Nat People HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO_PEOPLE-ar
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Ya Hala Cinma HD
-http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_BabyTV
-http://streamer1.furrera.ps:80/OSN_BabyTV/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_DisneyXD
-http://streamer1.furrera.ps:80/OSN_DisneyXD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_Disney
-http://streamer1.furrera.ps:80/OSN_Disney/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSNMoviesKids
-http://streamer1.furrera.ps:80/OSNMoviesKids/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_DJCema
-http://streamer1.furrera.ps:80/OSN_DJCema/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_NickJr
-http://streamer1.furrera.ps:80/OSN_NickJr/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",NickToons
-http://streamer1.furrera.ps:80/NickToons/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_History2HD
-http://streamer1.furrera.ps:80/OSN_History2HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_HistoryHD
-http://streamer1.furrera.ps:80/OSN_HistoryHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSNMoviesDisney
-http://streamer1.furrera.ps:80/OSNMoviesDisney/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",NickelodeonHD
-http://streamer1.furrera.ps:80/NickelodeonHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_DiscoveryScience
-http://streamer1.furrera.ps:80/OSN_DiscoveryScience/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",almajd
-http://streamer1.furrera.ps:80/almajd/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",TLCHD
-http://streamer1.furrera.ps:80/TLCHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",StarMoviesHD
-http://streamer1.furrera.ps:80/StarMoviesHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaCinema1
-http://streamer1.furrera.ps:80/AlphaCinema1/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaCinema2
-http://streamer1.furrera.ps:80/AlphaCinema2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",ARTAflam1
-http://streamer1.furrera.ps:80/ARTAflam1/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",ARTAflam2
-http://streamer1.furrera.ps:80/ARTAflam2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaAlsafwa
-http://streamer1.furrera.ps:80/AlphaAlsafwa/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaAlyawmHD
-http://streamer1.furrera.ps:80/AlphaAlyawmHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",KSASPORTS1HD
-http://streamer1.furrera.ps:80/KSASPORTS1HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",KSASPORTS2HD
-http://streamer1.furrera.ps:80/KSASPORTS2HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_NatGeoHD
-http://streamer1.furrera.ps:80/OSN_NatGeoHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",NatGeoWildHD
-http://streamer1.furrera.ps:80/NatGeoWildHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_DiscoveryScience
-http://streamer1.furrera.ps:80/OSN_DiscoveryScience/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlPrinceDrama
-http://streamer1.furrera.ps:80/AlPrinceDrama/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNMovies" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMovies
-http://streamer1.furrera.ps:80/OSNMovies/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesFirst
-http://streamer1.furrera.ps:80/OSNMoviesFirst/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesFirst2
-http://streamer1.furrera.ps:80/OSNMoviesFirst2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesAction" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesAction
-http://streamer1.furrera.ps:80/OSNMoviesAction/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSN_Enigma" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSN_Enigma
-http://streamer1.furrera.ps:80/OSN_Enigma/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNSeriesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNSeriesFirst
-http://streamer1.furrera.ps:80/OSNSeriesFirst/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNSeriesCom" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNSeriesCom
-http://streamer1.furrera.ps:80/OSNSeriesCom/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",OSN Ya Hala Cinma HD
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/30
 #EXTINF:-1 tvg-id="" tvg-name="OSNYaHala" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYaHala
-http://streamer1.furrera.ps:80/OSNYaHala/tracks-v1a1/mono.m3u8?token=test
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/26
 #EXTINF:-1 tvg-id="" tvg-name="OSNYahalaOula" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYahalaOula
-http://streamer1.furrera.ps:80/OSNYahalaOula/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="OSNYHCinema" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYHCinema
-http://streamer1.furrera.ps:80/OSNYHCinema/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AlphaMusalsalat+2HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaMusalsalat+2HD
-http://streamer1.furrera.ps:80/AlphaMusalsalat+2HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AlphaSeriesHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaSeriesHD
-http://streamer1.furrera.ps:80/AlphaSeriesHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AlphaAlyawmHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaAlyawmHD
-http://streamer1.furrera.ps:80/AlphaAlyawmHD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-name="AlphaAlsafwa" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaAlsafwa
-http://streamer1.furrera.ps:80/AlphaAlsafwa/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Ya Hala Cinma HD
-http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL YAHALA ALOULA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN AL YAHALA ALOULA
-http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE HD
-http://dx3.gcdn.co/OSNWWE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN WWE1 HD
-http://dx3.gcdn.co/OSNWWE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ANIMAL PLANET HD
-http://digitalxpress.gcdn.co/live1/OSNANIMALPLANET/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Aflam 1
-http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Aflam 2
-http://digitalxpress.gcdn.co/live1/artaflam2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN ART Cinema
-http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies FIRST HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies FIRST HD
-http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies HD
-http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala HD" tvg-logo="" group-title="OSN",OSN Yahala HD
-http://51.158.145.148:25461/test/test/8
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Aloula" tvg-logo="" group-title="OSN",OSN Yahala Aloula
-http://51.158.145.148:25461/test/test/9
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Cinema" tvg-logo="" group-title="OSN",OSN Yahala Cinema
-http://51.158.145.148:25461/test/test/10
-#EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="" group-title="OSN",OSN Action
-http://51.158.145.148:25461/test/test/11
-#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy" tvg-logo="" group-title="OSN",OSN Comedy
-http://51.158.145.148:25461/test/test/12
-#EXTINF:-1 tvg-id="" tvg-name="OSN Enigma" tvg-logo="" group-title="OSN",OSN Enigma
-http://51.158.145.148:25461/test/test/13
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies" tvg-logo="" group-title="OSN",OSN Movies
-http://51.158.145.148:25461/test/test/14
-#EXTINF:-1 tvg-id="" tvg-name="OSN Series First " tvg-logo="" group-title="OSN",OSN Series First 
-http://51.158.145.148:25461/test/test/15
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First" tvg-logo="" group-title="OSN",OSN Movies First
-http://51.158.145.148:25461/test/test/16
-#EXTINF:-1 tvg-id="" tvg-name="OSN Binge" tvg-logo="" group-title="OSN",OSN Binge
-http://51.158.145.148:25461/test/test/17
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/27
+#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesAction" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesAction
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/39
+#EXTINF:-1 tvg-id="" tvg-name="AlphaAlyawmHD" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaAlyawmHD
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/41
+#EXTINF:-1 tvg-id="" tvg-name="NickelodeonHD" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",NickelodeonHD
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/43
+#EXTINF:-1 tvg-id="" tvg-name="AlphaCinema1" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",AlphaCinema1
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/45
+#EXTINF:-1 tvg-id="" tvg-name="OSN_Discovery" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",OSN_Discovery
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i.imgur.com/tmGfOs0.png" tvg-country="JO" tvg-url="" group-title="OSN",NatGeoWildHD
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/44
 
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name=" ART Aflam 1" tvg-logo="" group-title="ART",ART Aflam 1
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/47
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 2" tvg-logo="" group-title="ART",ART Aflam 2
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/31
+#EXTINF:-1 tvg-id="" tvg-name="ART HEKAYAT 1" tvg-logo="" group-title="ART",ART HEKAYAT 1
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/28
+#EXTINF:-1 tvg-id="" tvg-name=" ART HEKAYAT 2" tvg-logo="" group-title="ART",ART HEKAYAT 2
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/29
+#EXTINF:-1 tvg-id="" tvg-name="ART CINEMA " tvg-logo="" group-title="ART",ART CINEMA 
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/40
 
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-1-HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 1 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD1-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-2HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 2 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD3-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies3HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 4 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD4-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-4HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 3 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD3-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Series-1HD.png" group-title="beIN MOVIES&SERIES",beIN Series 1 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinSeriesHD1-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Drama-1HD.png" group-title="beIN MOVIES&SERIES",beIN Drama 1 HD
+https://tv.besttvps.com/live/FuckYour/Mother/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Series-2HD.png" group-title="beIN MOVIES&SERIES",beIN Series 2 HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinSeriesHD2-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN FOX Action" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinfoxaction.png" group-title="beIN MOVIES&SERIES",beIN FOX Action
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/beIN_Fox_Action-ar
+#EXTINF:-1 tvg-id="" tvg-name="beIN FOX HD" tvg-logo="http://files.rednetcontent.com/chlogo/fox_tv.png" group-title="beIN MOVIES&SERIES",beIN FOX HD
+http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/beIN_FOX-ar
 
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART Aflam 1" tvg-logo="" group-title="ART",|AR| ART Aflam 1
-http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3366
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART Aflam 2" tvg-logo="" group-title="ART",|AR| ART Aflam 2
-http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3367
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART HEKAYAT 1" tvg-logo="" group-title="ART",|AR| ART HEKAYAT 1
-http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3368
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART HEKAYAT 2" tvg-logo="" group-title="ART",|AR| ART HEKAYAT 2
-http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3369
-#EXTINF:-1 tvg-id="" tvg-name="|AR| ART CINEMA " tvg-logo="" group-title="ART",|AR| ART CINEMA 
-http://51.159.21.231:2052/SOURCEARABPRO22/31136@38606/3370
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 1 Premiere
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 2 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 3 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Movies 4 Family
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama1
-http://best-live-iptv.xyz:2082/BEST-LIVE4455/BEST-LIVE4455/98
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Drama
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",beIN Movies 1 Premiere
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/32
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",beIN Movies 2 HD
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/33
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",beIN Movies 3 HD
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/34
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",beIN Movies 4 Family
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/35
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",beIN Drama
 http://bit.do/Beindr1
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 1 HD
-http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Series 2  HD
-http://digitalxpress.gcdn.co/live1/BEINSERIESHD2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Boomerang HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: beIN Boomerang HD
-http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN AMC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: BEIN AMC HD
-http://digitalxpress.gcdn.co/live1/BEINAMCHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: bein fatafeathd" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: bein fatafeathd
-http://digitalxpress.gcdn.co/live1/beinfatafeathd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: bein gourmet" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: bein gourmet
-http://digitalxpress.gcdn.co/live1/beingourmet/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: bein hgtv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",AR: bein hgtv
-http://digitalxpress.gcdn.co/live1/beinhgtv/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",beIN Series 1 HD
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/36
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",beIN Series 2  HD
+http://best-live-iptv.xyz:2082/BEST-LIVE1313/BEST-LIVE1313/37
 
 
 
