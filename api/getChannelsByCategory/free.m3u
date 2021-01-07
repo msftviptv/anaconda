@@ -4,25 +4,25 @@
 https://dl.dropbox.com/s/v954jaba9o7g25e/88d9f36020fa27b76f712094591dbbfc.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Live 1" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES", Live 1
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_1HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 2
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_2HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 3" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 3
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_3HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 4
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_4HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 5" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 5
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_5HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/44.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 6" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 6
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_6HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 7" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 7
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_7HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 8" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 8
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_8HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 9" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 9
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_9HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 10" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 10
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/HEVC_BEIN_SPORTS_10HD-ar
+http://3.133.154.226:25461/live/beinlivetv/7dayes/29.m3u8
 
 
 
@@ -960,45 +960,6 @@ http://best-live-iptv.xyz:2082/live/BEST-LIVE6565/BEST-LIVE6565/286
 #EXTINF:-1 tvg-id="" tvg-name="Majestic Kids" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2251177.png" group-title="Majestic",Majestic Kids
 http://best-live-iptv.xyz:2082/live/BEST-LIVE6565/BEST-LIVE6565/288
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Osn Yahala" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",Osn Yahala
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala Aloula" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",OSN Yahala Aloula
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA_1-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Yahala CINEMA" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/yahalaaloulaa.png" group-title="OSN NEW",OSN Yahala CINEMA
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_YAHALA_CINEMA-ar
-#EXTINF:-1 tvg-id="" tvg-name="Osn Cinema 1" tvg-logo="http://files.rednetcontent.com/chlogo/osnCM1.png" group-title="OSN NEW",Osn Cinema 1
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_CINEMA_1-ar
-#EXTINF:-1 tvg-id="" tvg-name="Osn Cinema 2" tvg-logo="http://files.rednetcontent.com/chlogo/Osn-Cinema2.png" group-title="OSN NEW",Osn Cinema 2
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_CINEMA_2-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat 1" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/musalsalat.png" group-title="OSN NEW",OSN Musalsalat 1
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MUSALSALAT_1-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat 2" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/musalsalat.png" group-title="OSN NEW",OSN Musalsalat 2
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MUSALSALAT_2-ar
-#EXTINF:-1 tvg-id="" tvg-name="Osn Al Yawm" tvg-logo="http://files.rednetcontent.com/chlogo/osnYAW.png" group-title="OSN NEW",Osn Al Yawm
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_ALYAWM-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First HD" tvg-logo="http://files.rednetcontent.com/chlogo/OSN-Movie-FirstHD.png" group-title="OSN NEW",OSN Movies First HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_FIRST-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First +2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/OSN-Movie-FirstHD.png" group-title="OSN NEW",OSN Movies First +2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_FIRST_2-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies HD" tvg-logo="http://files.rednetcontent.com/chlogo/osnmovies.png" group-title="OSN NEW",OSN Movies HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Action HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osnaction.png" group-title="OSN NEW",OSN Movies Action HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_ACTION-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Disney HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osndisney.png" group-title="OSN NEW",OSN Movies Disney HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_MOVIES_Disney-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Comedy Central HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/osncentral.png" group-title="OSN NEW",OSN Comedy Central HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_COMEDY_CENTRAL-ar
-#EXTINF:-1 tvg-id="" tvg-name="Osn Nat Geo HD" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png" group-title="OSN NEW",Osn Nat Geo HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Wild HD" tvg-logo="http://files.rednetcontent.com/chlogo/natwild.png" group-title="OSN NEW",OSN Nat Geo Wild HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO_WILD-ar
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat People HD" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/NatGeoPeoplelogo-l.png" group-title="OSN NEW",OSN Nat People HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=OSN-EX/OSN_NAT_GEO_PEOPLE-ar
 
 
 
