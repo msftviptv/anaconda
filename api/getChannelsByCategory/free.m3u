@@ -1137,8 +1137,22 @@ http://digitalxpress2.gcdn.co/live1/FR-DISNEYJR/index.m3u8/index.m3u8
 http://digitalxpress2.gcdn.co/live1/FR-DISNEYCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" group-title="FRANCE",FR-TELETOON
 http://digitalxpress2.gcdn.co/live1/FR-TELETOON/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="BFM Business FR" tvg-name="Aragón TV" tvg-language="French" tvg-logo="http://www.aragontelevision.es/logos/apple-touch-icon.png" group-title="Espanol",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS En Español"  tvg-logo="https://i.imgur.com/3wKFbFh.png" group-title="Espanol",beIN SPORTS En Español
+https://garfi.fr/tools/prx/index.php/http://photocall.tv/kD5a/ey?ch=bein_n
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="FRANCE",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
