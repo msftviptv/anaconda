@@ -4,25 +4,25 @@
 https://dl.dropbox.com/s/v954jaba9o7g25e/88d9f36020fa27b76f712094591dbbfc.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Live 1" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES", Live 1
-http://194.32.79.172/bein1s/tracks-v1a1/mono.m3u8
+http://207.180.212.4:25461/live/mobile/mobile774/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 2" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 2
-http://korastar.ga:25461/mobile/mobile774/26
+http://207.180.212.4:25461/live/mobile/mobile774/26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 3" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 3
-http://3.133.154.226:25461/live/beinlivetv/7dayes/18.m3u8
+http://207.180.212.4:25461/live/mobile/mobile774/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 4" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 4
-http://3.133.154.226:25461/live/beinlivetv/7dayes/19.m3u8
+http://207.180.212.4:25461/live/mobile/mobile774/28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 5" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 5
-http://3.133.154.226:25461/live/beinlivetv/7dayes/44.m3u8
+http://207.180.212.4:25461/live/mobile/mobile774/29.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 6" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 6
-http://3.133.154.226:25461/live/beinlivetv/7dayes/25.m3u8
+http://207.180.212.4:25461/live/mobile/mobile774/30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 7" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 7
-http://3.133.154.226:25461/live/beinlivetv/7dayes/26.m3u8
+http://207.180.212.4:25461/live/mobile/mobile774/31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 8" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 8
-http://3.133.154.226:25461/live/beinlivetv/7dayes/27.m3u8
+http://207.180.212.4:25461/live/mobile/mobile774/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 9" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 9
-http://3.133.154.226:25461/live/beinlivetv/7dayes/28.m3u8
+http://207.180.212.4:25461/live/mobile/mobile774/33.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 10" tvg-logo="https://i.imgur.com/P8n27sR.png" group-title="MATCHES",LIVE 10
-http://3.133.154.226:25461/live/beinlivetv/7dayes/29.m3u8
+http://3.133.154.226:25461/live/beinlivetv/7dayes/34.m3u8
 
 
 
