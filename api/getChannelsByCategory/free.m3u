@@ -27,9 +27,9 @@ http://3.133.154.226:25461/live/beinlivetv/7dayes/29.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1" tvg-logo="https://i.imgur.com/BRKlQ4k.png" group-title="beIN Sports low",BEIN SPORT LOW 1
-http://best-live-iptv.xyz:2082/live/BEST-LIVE6565/BEST-LIVE6565/20
+http://best-live-iptv.xyz:2082/BEST-LIVE6565/BEST-LIVE6565/20
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 2" tvg-logo="https://i.imgur.com/z3KSJcp.png" group-title="beIN Sports low",BEIN SPORT LOW 2
-http://best-live-iptv.xyz:2082/live/BEST-LIVE6565/BEST-LIVE6565/21
+http://best-live-iptv.xyz:2082/BEST-LIVE6565/BEST-LIVE6565/21
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 3" tvg-logo="https://i.imgur.com/mSYx8p2.png" group-title="beIN Sports low",BEIN SPORT LOW 3
 http://best-live-iptv.xyz:2082/live/BEST-LIVE6565/BEST-LIVE6565/22
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 4" tvg-logo="https://i.imgur.com/75qJQ8c.png" group-title="beIN Sports low",BEIN SPORT LOW 4
