@@ -140,9 +140,9 @@ http://live.btv2020.com:1935/live/btv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuajcp5n5aO0eLNScO2uMIsLsVFVRl06Z-dg&usqp=CAU" group-title="Arabic Sport",Nile Sport
 http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/On_Time_Sports_Logo.png" group-title="Arabic Sport",on time Sport 1
-https://streamer1.furrera.ps/ONSportHD/index.m3u8?token=test
+http://138.201.33.161:8080/live/rgzfzfdh/zghzh/20.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://lh3.googleusercontent.com/-1O15g1x7Mxo/X0B6G8LEv0I/AAAAAAAAAWk/OqYCkIdPzXoP8wmndfW8C4lhlV8Z-RFbQCLcBGAsYHQ/h120-e90/%25D8%25A7%25D9%2588%25D9%2586-2.jpg" group-title="Arabic Sport",on time Sport 2
-http://posterboot.xyz:8080/live/streeem/streeem/43.m3u8
+http://138.201.33.161:8080/live/rgzfzfdh/zghzh/21.m3u8
 
 
 
@@ -997,25 +997,6 @@ http://best-live-iptv.xyz:2082/BEST-LIVE6565/BEST-LIVE6565/29
 #EXTINF:-1 tvg-id="" tvg-name="ART CINEMA " tvg-logo="" group-title="ART",ART CINEMA 
 http://best-live-iptv.xyz:2082/BEST-LIVE6565/BEST-LIVE6565/40
 
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-1-HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD1-ar
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-2HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD3-ar
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies3HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 4 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD4-ar
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Movies-4HD.png" group-title="beIN MOVIES&SERIES",beIN Movies 3 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinMoviesHD3-ar
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Series-1HD.png" group-title="beIN MOVIES&SERIES",beIN Series 1 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinSeriesHD1-ar
-#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Drama-1HD.png" group-title="beIN MOVIES&SERIES",beIN Drama 1 HD
-https://tv.besttvps.com/live/FuckYour/Mother/82.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo/beIN-Series-2HD.png" group-title="beIN MOVIES&SERIES",beIN Series 2 HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/BeinSeriesHD2-ar
-#EXTINF:-1 tvg-id="" tvg-name="beIN FOX Action" tvg-logo="http://files.rednetcontent.com/chlogo2/arabic/beinfoxaction.png" group-title="beIN MOVIES&SERIES",beIN FOX Action
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/beIN_Fox_Action-ar
-#EXTINF:-1 tvg-id="" tvg-name="beIN FOX HD" tvg-logo="http://files.rednetcontent.com/chlogo/fox_tv.png" group-title="beIN MOVIES&SERIES",beIN FOX HD
-http://ch.gotvred.com:6791/watchlive.php?s=1&id=EX/beIN_FOX-ar
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bein(ترفيهية)",beIN Movies 1 Premiere
