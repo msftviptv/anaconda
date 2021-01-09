@@ -1127,6 +1127,8 @@ http://digitalxpress2.gcdn.co/live1/FR-TELETOON/index.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS En Español"  tvg-logo="https://i.imgur.com/3wKFbFh.png" group-title="Espanol",beIN SPORTS En Español
 https://garfi.fr/tools/prx/index.php/http://photocall.tv/kD5a/ey?ch=bein_n
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS En Español"  tvg-logo="https://i.imgur.com/wzcbqFd.png" group-title="Espanol",beIN laliga
+https://garfi.fr/tools/prx/index.php/http://photocall.tv/kD5a/ey?ch=bein_laliga
 
 
 
