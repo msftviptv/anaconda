@@ -1565,6 +1565,8 @@ https://cdn.alarab.com/h264/161685_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/161687_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="77997" tvg-name="EP09مسلسل لؤلؤ" tvg-logo="https://images.alarab.com/data/tv/146-100/20210106142321.jpg" group-title="لؤلؤ",EP09مسلسل لؤلؤ
 https://cdn.alarab.com/h264/161698_480p.mp4/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="77997" tvg-name="EP10مسلسل لؤلؤ" tvg-logo="https://images.alarab.com/data/tv/146-100/20210106142321.jpg" group-title="لؤلؤ",EP10مسلسل لؤلؤ
+https://bg.stream.fushaar.com/tlvaz/Series/Arabic-Series/Lulu/Lulu10.mp4/chunk.m3u8
 
 
 
@@ -1607,9 +1609,8 @@ https://ostream1.panet.co.il/vod/675/675520/675520.mp4/chunk.m3u8
 https://ostream1.panet.co.il/vod/675/676067/676067.mp4/chunk.m3u8
 #EXTINF:-1 tvg-id="77997" tvg-name="EP19مسلسل جمال الحريم" tvg-logo="https://i.imgur.com/lvEaARX.png" group-title="جمال الحريم",EP19مسلسل جمال الحريم
 https://ostream1.panet.co.il/vod/675/676594/676594.mp4/chunk.m3u8
-
-
-
+#EXTINF:-1 tvg-id="77997" tvg-name="EP20مسلسل جمال الحريم" tvg-logo="https://i.imgur.com/lvEaARX.png" group-title="جمال الحريم",EP20مسلسل جمال الحريم
+https://bg.stream.fushaar.com/tlvaz/Series/Arabic-Series/GamalElHareem/GamalElHareem20.mp4/chunk.m3u8
 
 
 #EXTINF:-1 tvg-id="77997" tvg-name="" tvg-logo="https://i.imgur.com/StbodIu.jpg" group-title="AltabeebAlmo3jeza",EP01مسلسل الطبيب المعجزة
