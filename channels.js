@@ -42,3 +42,7 @@ var beinsport1low = "http://163.172.215.26:25461/live/BEST-LIVE1177/BEST-LIVE117
     beinsport4ksd = "http://163.172.215.26:25461/live/BEST-LIVE1177/BEST-LIVE1177/11.m3u8";
     beinsport4khd = "http://163.172.215.26:25461/live/BEST-LIVE1177/BEST-LIVE1177/1.m3u8";
     beinsport4kfhd = "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8";
+    adsport1 = "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8";
+    adsport2 = "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8";
+    adsport3 = "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8";
+   adsport4 = "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8";
