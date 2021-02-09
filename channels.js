@@ -46,3 +46,7 @@ var beinsport1low = "http://163.172.215.26:25461/live/BEST-LIVE1177/BEST-LIVE117
     adsport2 = "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8";
     adsport3 = "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8";
    adsport4 = "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8";
+     alkass1 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1";
+     alkass2 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2";
+     alkass3 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3";
+     alkass4 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4";
