@@ -50,3 +50,4 @@ var beinsport1low = "http://163.172.215.26:25461/live/BEST-LIVE1177/BEST-LIVE117
      alkass2 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2";
      alkass3 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3";
      alkass4 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4";
+     alkass5 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5";
