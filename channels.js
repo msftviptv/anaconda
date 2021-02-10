@@ -51,3 +51,4 @@ var beinsport1low = "http://jo.best-live-iptv.xyz:25461/live/BEST-LIVE1414/BEST-
      alkass3 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3";
      alkass4 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4";
      alkass5 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5";
+     ontimesport = "http://jo.best-live-iptv.xyz:25461/live/BEST-LIVE1414/BEST-LIVE1414/100.m3u8";
