@@ -52,4 +52,4 @@ var beinsport1low = "http://jo.best-live-iptv.xyz:25461/live/BEST-LIVE1414/BEST-
      alkass4 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4";
      alkass5 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5";
      ontimesport = "http://jo.best-live-iptv.xyz:25461/live/BEST-LIVE1414/BEST-LIVE1414/100.m3u8";
-     dassh = "https://yacineappweb.com/streamM3u8?url=http%3A%2F%2F62.210.75.176%3A8081%2Fyacinetv%2FBeinSD1%2Fchunks.m3u8%3Fnimblesessionid%3D8601163"; 
+     dassh = "https://video.fcai21-2.fna.fbcdn.net/hvideo-ftw-frc/_nc_cat-102/v/r4NnjVVY5t0A_h710BVv7/_nc_ohc-nO-EcNYXdm0AX8CXrSz/live-dash/dash-abr5/725134041509090.mpd"; 
