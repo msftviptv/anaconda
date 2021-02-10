@@ -52,4 +52,4 @@ var beinsport1low = "http://jo.best-live-iptv.xyz:25461/live/BEST-LIVE1414/BEST-
      alkass4 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4";
      alkass5 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5";
      ontimesport = "http://jo.best-live-iptv.xyz:25461/live/BEST-LIVE1414/BEST-LIVE1414/100.m3u8";
-     dassh = "https://video.fcai21-2.fna.fbcdn.net/hvideo-ftw-frc/_nc_cat-102/v/r4NnjVVY5t0A_h710BVv7/_nc_ohc-nO-EcNYXdm0AX8CXrSz/live-dash/dash-abr5/725134041509090.mpd?_nc_rl=AfD8nTrZx0mD-dHDjWI&ms=m_CNP&oh=be95c150394aadb202fd66f356f92535&oe=602569EB"; 
+     dassh = "https://video.xx.fbcdn.net/hvideo-ftw-ldc/_nc_cat-104/v/rUEg0wr7ccCfjD_Jp9amQ/_nc_ohc-fktGDzPuE1cAX-i13-k/live-dash/dash-abr-ibr-audio/132050875449713.mpd?_nc_rl=AfAH3-wwfo2XXtaPdMc&ms=m_CT&oh=2a791cd53c07f8954e518c6ea15f4672&oe=6025EB51"; 
