@@ -1,8 +1,4 @@
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام انمي",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="مسلسلات مصرية 2020",ليه لأ الحلقة S1
-https://moshahda.online/embedM-bqkputv68eei-640x344.html?high
+#EXTM3U
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",The Addams Family
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Addams.Family.2019.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",The Hidden World
@@ -76,8 +72,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Moana.2016.aflamy.ps.
 #EXTINF:0 tvg-id="avi" group-title="افلام انمي",Wreck-It Ralph
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Wreck.it.Ralph.2012.mp4/playlist.m3u8
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام هندية",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام هندية",فيلم Ik Sandhu Hunda Si مترجم HD انتاج 2020
 https://cdn.alarab.com/h264/154020_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام هندية",Tanhaji: The Unsung Warrior
@@ -259,9 +253,8 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Raatchasan.2018.mp4/p
 #EXTINF:0 tvg-id="avi" group-title="افلام هندية",Sultan: The Saviour
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sultan.The.Saviour.2018.mp4/playlist.m3u8
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام عربية",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",
+
+
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم إن بارادوكس
 https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/movies/in-baraduks/in-baraduks-480.mp4
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",فيلم نورا تحلم HD انتاج 2019
@@ -488,8 +481,6 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Armoaty.2017.mp4/play
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",عمر وسلمى 3
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Omar.and.Salma-3.mp4/playlist.m3u8
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام تركية مترجمه",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام تركية مترجمه",فيلم وادي الذئاب الوطن
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Valley.of.the.Wolves.Homeland.mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام تركية مترجمه",فيلم وادي الذئاب / فلسطين مدبلج
@@ -595,8 +586,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/First.Kiss.2017.mp4/p
 #EXTINF:0 tvg-id="avi" group-title="افلام تركية مترجمه",فيلم أخي أنا ج2
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/mybrother2.mp4/playlist.m3u8
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام آسيوية",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
+
 #EXTINF:0 tvg-id="avi" group-title="افلام آسيوية",Long Live the King
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Long.Live.the.King.2019..mp4/playlist.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام آسيوية",Parasite
@@ -746,9 +736,7 @@ http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Destiny-The-Tale-of-K
 #EXTINF:0 tvg-id="avi" group-title="افلام آسيوية",Heung-boo: The Revolutionist
 http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Heung-boo-The-Revolutionist-2018.mp4/playlist.m3u8
 
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="افلام أجنبية مترجمه ",[color yellow]Aliwix Team ➠ www.aliwix-tv.com[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",
+
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",فيلم Eurovision Song Contest: The Story of Fire Saga
 https://cdn.alarab.com/h264/157424_720p.mp4/index-v1-a1.m3u8
 #EXTINF:0 tvg-id="avi" group-title="افلام أجنبية مترجمه",فيلم Bloodshot مترجم HD 
