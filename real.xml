@@ -1,10 +1,17 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
 <Provider>
-<PlaylistUrlTemplate>http://realbein.life:8080/get.php?username=UUU&password=PPP&type=m3u&output=mpegts</PlaylistUrlTemplate>
-<PlaylistUrlTemplate>http://realbein.life:8080/get.php?username=UUU&password=PPP&type=m3u&output=mpegts</PlaylistUrlTemplate>
-<PlaylistUrlTemplate>http://realbein.life:8080/get.php?username=UUU&password=PPP&type=m3u&output=mpegts</PlaylistUrlTemplate>
-<LockedGroup>--Adult_18+---</LockedGroup>
-<Background date="2015.08.28 00:00:00">http://besthd4u.com/newapk/freetry/freetry-background.jpg</Background>
-<Splash date="2015.08.28 00:00:00">http://besthd4u.com/newapk/freetry/provSplash-freetry.png</Splash>
+
+  <PlaylistUrlTemplate>http://192.99.46.42:8000/get.php?username=UUU&amp;password=PPP&amp;type=m3u&amp;output=mpegts</PlaylistUrlTemplate>
+<PlaylistUrlTemplate>http://configuration.tn:8000/get.php?username=UUU&amp;password=PPP&amp;type=m3u&amp;output=mpegts</PlaylistUrlTemplate>
+<PlaylistUrlTemplate>http://37.187.168.83:8000/get.php?username=UUU&amp;password=PPP&amp;type=m3u&amp;output=mpegts</PlaylistUrlTemplate>
+
+   <LockedGroup>--Adult_18+---</LockedGroup>
+   <Background date="2015.08.28 00:00:00">http://besthd4u.com/newapk/freetry/freetry-background.jpg</Background>
+   <Splash date="2015.08.28 00:00:00">http://besthd4u.com/newapk/freetry/provSplash-freetry.png</Splash>
+
+
 <LoginDialogInfo>Signup at www.satxtv.com to get your free codes,use availiable mailbox please!and offical codes lot channels more stable!</LoginDialogInfo>
 <brocastMessage>IPTV Free!Tell your friends or put to forum!</brocastMessage>
+
 </Provider>
