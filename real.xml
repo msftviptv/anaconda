@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Provider>
 	<PlaylistUrlTemplate>http://192.99.46.42:8000/get.php?username=UUU&amp;password=PPP&amp;type=m3u&amp;output=mpegts</PlaylistUrlTemplate>
-	<PlaylistUrlTemplate>http://iptvhit.live/MSFtv/UUU&amp;/PPP&amp;</PlaylistUrlTemplate>
+	<PlaylistUrlTemplate>http://iptvhit.live/MSFtv/UUU/PPP</PlaylistUrlTemplate>
 	<PlaylistUrlTemplate>http://37.187.168.83:8000/get.php?username=UUU&amp;password=PPP&amp;type=m3u&amp;output=mpegts</PlaylistUrlTemplate>
 	<LockedGroup>--Adult_18+---</LockedGroup>
 	<Background date="2015.08.28 00:00:00">http://besthd4u.com/newapk/freetry/freetry-background.jpg</Background>
