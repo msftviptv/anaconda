@@ -51,5 +51,5 @@ var beinsport1low = "http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/11
      alkass3 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3";
      alkass4 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4";
      alkass5 = "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5";
-     ontimesport = "http://163.172.25.83:25461/live/BEST-LIVE6363/BEST-LIVE6363/100.m3u8";
+     ontimesport = "http://163.172.25.83:25461/live/BEST-LIVE6363/BEST-LIVE6363/106.m3u8";
      dassh = "https://video.xx.fbcdn.net/hvideo-ftw-rva/_nc_cat-104/v/r0cJH241xTqOuLFgvrV5_/_nc_ohc-1MIw6BkK_vYAX87TLrG/live-dash/dash-abr-ibr-audio/133803455274455.mpd?_nc_rl=AfCTVq6yCDLxEr3a8ds&ms=m_CT&oh=7835202c45ae61e5d06039b98fd2ab4b&oe=60295AAF"; 
