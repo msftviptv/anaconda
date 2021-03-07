@@ -5,27 +5,8 @@
 
 </head>
 <body>
-  <script>
-    $(function(){
-    $.ajax({
-      url: "https://www.filgoal.com/matches/ajaxlist?date=2020-12-15",
-      dataType: "json",
-      cash: false,
-      success: function(data, statues) {
-        $.each(data,  function(index,r) {
-         
-          $("#show").append('<div>' + data[index].r.HomeTeamName +'</div>');
-        });
-        },
-        error: function(xhr, textstatus, err) {
-          console.log(xhr);
-          console.log(textstatus);
-          console.log(err);
-      
-    });
-  });
-    </script>
-    <h1> work</h1>
-<div id="show"></div>
+<div id='userinfo' style='display:none;'>
+{"user_info":{"username":"25669","password":"25669","message":"","auth":1,"status":"Active","exp_date":"1645244460","is_trial":"0","active_cons":"0","created_at":"1613622058","max_connections":"1","allowed_output_formats":["m3u8","ts","rtmp"]},"server_info":{"url":"realbein.life","port":"8080","https_port":"25463","server_protocol":"http","rtmp_port":"25462","timezone":"Africa\/Cairo","timestamp_now":1615121426,"time_now":"2021-03-07 14:50:26"}}
+</div>
 </body>
 </html>
