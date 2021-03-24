@@ -1,0 +1,248 @@
+
+* {
+    outline: 0px;
+    padding: 0px;
+    margin: 0px;
+	font-family:Rubik ,sans-serif !important;
+}
+
+body{
+    background:#000;
+}
+
+.site{
+
+}
+
+.qanat{
+	overflow: auto;
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+    width: 20%;
+    bottom: 0;
+}
+
+.play{
+	border: 0;
+    border-left: 1px solid #ccc;
+    height: 100%;
+   float:right;
+    margin: 0;
+    width:80%;
+    background:#000;
+
+}
+
+#embedd {
+    width: 80%;
+    text-align: center;
+    direction: ltr;
+    font-size: 15px;
+    height: 30px;
+    bottom: 0;
+    position: fixed;
+    z-index: 99;
+    right: 0;
+	border-left:unset;
+	border-right:unset;
+	color:#fff;
+	background:#000;
+	}
+	
+#myInput{
+	width: 19.1%;
+    font-size: 15px;
+    padding: 12px 0px 12px 6px;
+	position: fixed;
+	text-align: center;
+	background:#fff;
+	}
+
+
+
+ul{
+padding-top: 45px;
+}
+
+
+li{
+display: block;
+width:99.5%;
+float:left;
+
+}
+
+li a{text-align: left;
+    line-height: 44px;
+    font-size: 18px;
+    color: #fff;
+	display: block;
+    border-bottom: 1px solid #dcdcdc;
+	padding-left:10px;
+}
+
+.qanat::-webkit-scrollbar {
+    width: 12px;
+    background-color: #ccc;
+	}
+	
+.qanat::-webkit-scrollbar-thumb {
+    border-radius: 12px;
+    -webkit-box-shadow: inset 0 0 12px rgba(0,0,0,.3);
+    background-color: #96979c;
+	}
+
+	
+li.active a{
+background: linear-gradient(to bottom, #60419f 0%, #333 100%);
+color: #fff;
+}
+
+li a:hover {
+background: linear-gradient(to bottom, #60419f 0%, #333 100%);
+color: #fff; 
+}
+
+a{
+text-decoration: none;
+}
+
+[data-watermark] img{
+	width:100% !important;
+	top:0 !important;
+	right:0 !important;
+	bottom:0 !important;
+    }
+
+
+    [data-player] video {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: auto;
+    }
+
+    [data-watermark]{
+    max-width:100% !important;
+    width:100% !important;
+    top:0 !important;
+	right:0 !important;
+	bottom:0 !important;
+    }
+
+    .clappr-watermark[data-watermark] img {
+        width: 100% !important;
+    }
+    
+    .media-control[data-media-control] .media-control-layer[data-controls] .drawer-container[data-volume]{
+    display:none !important;
+    }
+
+    .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button{
+    width: 50px !important;
+    margin: -6px 0px !important;
+    }
+
+    .media-control[data-media-control] .media-control-layer[data-controls] button.media-control-button svg{
+    height:50px !important;
+    }
+    
+#adsense{
+    display:none !important;
+}
+    
+    
+.container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; 
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1.05%;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+#navbar.active a{
+background: linear-gradient(to bottom, #60419f 0%, #333 100%);
+color: #fff;
+}
+
+#navbar a:hover {
+background: linear-gradient(to bottom, #60419f 0%, #333 100%);
+color: #fff; 
+}
+
+li a img {
+    float: right;
+    border-left: 1px solid #dcdcdc;
+    width: 40px;
+    text-align: center;
+    padding: 2px 7px 2px 7px;
+    
+    margin-top: 2px;
+}
+
+@media (max-width: 980px) {  
+
+.site{
+padding-top: 56%;
+}
+
+.qanat{
+width:100%;
+position: static;
+}
+
+ul {
+    padding-top: 85px;
+}
+
+.play{
+    height:unset;
+	width: 100%;
+    top: 0px;
+    position: fixed;
+}
+
+li a{
+    line-height: 135px;
+    font-size: 60px;
+	padding-left:30px;
+}
+
+li a img {
+    width:120px;
+    padding: 12px 15px 2px 15px;
+}
+
+#myInput{
+width:100%;
+font-size: 36px;
+    padding: 25px 0px 25px 12px;
+} 
+
+#embedd{
+display:none;
+}
+
+}
