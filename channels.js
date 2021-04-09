@@ -1,4 +1,8 @@
-var beinsport1low = "http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/110.m3u8";
+var beinsport1prelow = "http://rv.therevenge.co:80/live/1234560/1234560/163912.m3u8";
+    beinsport1presd = "http://rv.therevenge.co:80/live/1234560/1234560/163892.m3u8";
+    beinsport1prehd = "http://rv.therevenge.co:80/live/1234560/1234560/78637.m3u8";
+    beinsport1prefhd = "http://rv.therevenge.co:80/live/1234560/1234560/163929.m3u8";
+    beinsport1low = "http://195.154.165.98:25461/live/mrconnect20170/zxdcfvgb/110.m3u8";
     beinsport1sd = "http://163.172.25.83:25461/live/BEST-LIVE2626/BEST-LIVE2626/11.m3u8";
     beinsport1hd = "http://163.172.25.83:25461/live/BEST-LIVE2626/BEST-LIVE2626/1.m3u8";
     beinsport1fhd = "http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8";
