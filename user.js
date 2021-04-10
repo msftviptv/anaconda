@@ -1,4 +1,4 @@
-var first0 = 'https://souls.fwtv.live:443/live/';
+var first0 = 'http://souls.fwtv.live/live/';
 var first1 = 'http://s1.mainevents.icu:8000/live/';
 // vttpi اليوزر نيم بتاع موقع 
 
