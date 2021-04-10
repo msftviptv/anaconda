@@ -1,13 +1,13 @@
-var first0 = 'http://163.172.215.26:25461/live/';
+var first0 = 'https://souls.fwtv.live:443/live/';
 var first1 = 'http://s1.mainevents.icu:8000/live/';
 // vttpi اليوزر نيم بتاع موقع 
 
-var username0 = 'BEST-LIVE1177';
+var username0 = 'test';
 
 
 // vttpi الباسورد بتاع موقع 
 
-var password0 = 'BEST-LIVE1177';
+var password0 = '6299771357';
 
 
 
