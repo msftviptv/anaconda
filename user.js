@@ -11,9 +11,9 @@ var password0 = 'shikos9hboxshiko';
 
 
 
-var username1 = '239021AM4884820';
+var username1 = 's9hmoves';
 
 
 // vttpi الباسورد بتاع موقع 
 
-var password1 = '47212021AM4784345';
+var password1 = 'shiko54323432';
