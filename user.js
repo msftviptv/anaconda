@@ -1,5 +1,5 @@
 var first0 = 'http://maveniptv.tv:2095/live';
-var first1 = 'http://s1.mainevents.icu:8000/live/';
+var first1 = 'http://maveniptv.tv:2095/movie';
 // vttpi اليوزر نيم بتاع موقع 
 
 var username0 = 's9hbox';
