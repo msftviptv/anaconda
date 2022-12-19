@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<!-- HTML -->
+<div id="people">
+  <!-- people will be rendered here -->
+</div>
+
+<script>
+const peopleContainer = document.querySelector("#people");
+const person = (name, surname, image) => `
+<div>
+  <p class="name">${name}</p>
+  <p class="surname">${surname}</p>
+  <img src="${image}" alt="" class="image">
+</div>
+`;
+
+async function getApi() {
+  const req = await fetch("https://reqres.in/api/users?page=2");
+  // https://iptvhit.live/MSFtv/api/Pedroooo111/12345
+  const resp = await req.json();
+
+  let htmlString = "";
+
+  for (const {first_name, last_name, avatar} of resp.data) {
+    htmlString += person(first_name, last_name, avatar);
+  }
+  // This should probably be an html element that gets appended
+  // instead of just shoving strings in willy-nilly, but anyway:
+  peopleContainer.innerHTML = htmlString;
+}
+
+getApi();
+</script>
+</body>
+</html>
