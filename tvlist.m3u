@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports  بي ان سبورت",ام نوال
+https://cdn1.livehd720.com/hlsbeinp1/bein/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports  بي ان سبورت",beIN 1 Premium FHD
 http://173.212.193.243:8080/mo3ad/mo3ad/405
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports  بي ان سبورت",beIN 3 Premium FHD
